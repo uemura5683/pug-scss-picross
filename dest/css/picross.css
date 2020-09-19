@@ -1,0 +1,1004 @@
+/* foundation */
+/* reset */
+div, input, label span {
+  font-family: "Open Sans", "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
+}
+
+input {
+  display: none;
+}
+
+input:checked + label {
+  background: #000;
+}
+
+input[type="reset"] + label {
+  position: fixed;
+  top: 10px;
+  left: 0;
+  width: auto;
+  padding: 5px 10px;
+  height: auto;
+  background: #fff;
+  box-shadow: 0 0 0 1px #ccc, 1px 1px 0 0 #ccc, 2px 2px 0 0 #ccc, 3px 3px 0 0 #ccc, 4px 4px 0 0 #ccc;
+  transition: all .2s ease;
+}
+
+input[type="reset"] + label:hover {
+  background: #000;
+  color: #fff;
+  transition: all .2s ease;
+}
+
+label {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+
+label[for=rogic-checkbox-1] {
+  top: 150px;
+  left: 150px;
+}
+
+label[for=rogic-checkbox-2] {
+  top: 150px;
+  left: 200px;
+}
+
+label[for=rogic-checkbox-3] {
+  top: 150px;
+  left: 250px;
+}
+
+label[for=rogic-checkbox-4] {
+  top: 150px;
+  left: 300px;
+}
+
+label[for=rogic-checkbox-5] {
+  top: 150px;
+  left: 350px;
+}
+
+label[for=rogic-checkbox-6] {
+  top: 150px;
+  left: 400px;
+}
+
+label[for=rogic-checkbox-7] {
+  top: 150px;
+  left: 450px;
+}
+
+label[for=rogic-checkbox-8] {
+  top: 150px;
+  left: 500px;
+}
+
+label[for=rogic-checkbox-9] {
+  top: 150px;
+  left: 550px;
+}
+
+label[for=rogic-checkbox-10] {
+  top: 150px;
+  left: 600px;
+}
+
+label[for=rogic-checkbox-11] {
+  top: 200px;
+  left: 150px;
+}
+
+label[for=rogic-checkbox-12] {
+  top: 200px;
+  left: 200px;
+}
+
+label[for=rogic-checkbox-13] {
+  top: 200px;
+  left: 250px;
+}
+
+label[for=rogic-checkbox-14] {
+  top: 200px;
+  left: 300px;
+}
+
+label[for=rogic-checkbox-15] {
+  top: 200px;
+  left: 350px;
+}
+
+label[for=rogic-checkbox-16] {
+  top: 200px;
+  left: 400px;
+}
+
+label[for=rogic-checkbox-17] {
+  top: 200px;
+  left: 450px;
+}
+
+label[for=rogic-checkbox-18] {
+  top: 200px;
+  left: 500px;
+}
+
+label[for=rogic-checkbox-19] {
+  top: 200px;
+  left: 550px;
+}
+
+label[for=rogic-checkbox-20] {
+  top: 200px;
+  left: 600px;
+}
+
+label[for=rogic-checkbox-21] {
+  top: 250px;
+  left: 150px;
+}
+
+label[for=rogic-checkbox-22] {
+  top: 250px;
+  left: 200px;
+}
+
+label[for=rogic-checkbox-23] {
+  top: 250px;
+  left: 250px;
+}
+
+label[for=rogic-checkbox-24] {
+  top: 250px;
+  left: 300px;
+}
+
+label[for=rogic-checkbox-25] {
+  top: 250px;
+  left: 350px;
+}
+
+label[for=rogic-checkbox-26] {
+  top: 250px;
+  left: 400px;
+}
+
+label[for=rogic-checkbox-27] {
+  top: 250px;
+  left: 450px;
+}
+
+label[for=rogic-checkbox-28] {
+  top: 250px;
+  left: 500px;
+}
+
+label[for=rogic-checkbox-29] {
+  top: 250px;
+  left: 550px;
+}
+
+label[for=rogic-checkbox-30] {
+  top: 250px;
+  left: 600px;
+}
+
+label[for=rogic-checkbox-31] {
+  top: 300px;
+  left: 150px;
+}
+
+label[for=rogic-checkbox-32] {
+  top: 300px;
+  left: 200px;
+}
+
+label[for=rogic-checkbox-33] {
+  top: 300px;
+  left: 250px;
+}
+
+label[for=rogic-checkbox-34] {
+  top: 300px;
+  left: 300px;
+}
+
+label[for=rogic-checkbox-35] {
+  top: 300px;
+  left: 350px;
+}
+
+label[for=rogic-checkbox-36] {
+  top: 300px;
+  left: 400px;
+}
+
+label[for=rogic-checkbox-37] {
+  top: 300px;
+  left: 450px;
+}
+
+label[for=rogic-checkbox-38] {
+  top: 300px;
+  left: 500px;
+}
+
+label[for=rogic-checkbox-39] {
+  top: 300px;
+  left: 550px;
+}
+
+label[for=rogic-checkbox-40] {
+  top: 300px;
+  left: 600px;
+}
+
+label[for=rogic-checkbox-41] {
+  top: 350px;
+  left: 150px;
+}
+
+label[for=rogic-checkbox-42] {
+  top: 350px;
+  left: 200px;
+}
+
+label[for=rogic-checkbox-43] {
+  top: 350px;
+  left: 250px;
+}
+
+label[for=rogic-checkbox-44] {
+  top: 350px;
+  left: 300px;
+}
+
+label[for=rogic-checkbox-45] {
+  top: 350px;
+  left: 350px;
+}
+
+label[for=rogic-checkbox-46] {
+  top: 350px;
+  left: 400px;
+}
+
+label[for=rogic-checkbox-47] {
+  top: 350px;
+  left: 450px;
+}
+
+label[for=rogic-checkbox-48] {
+  top: 350px;
+  left: 500px;
+}
+
+label[for=rogic-checkbox-49] {
+  top: 350px;
+  left: 550px;
+}
+
+label[for=rogic-checkbox-50] {
+  top: 350px;
+  left: 600px;
+}
+
+label[for=rogic-checkbox-51] {
+  top: 400px;
+  left: 150px;
+}
+
+label[for=rogic-checkbox-52] {
+  top: 400px;
+  left: 200px;
+}
+
+label[for=rogic-checkbox-53] {
+  top: 400px;
+  left: 250px;
+}
+
+label[for=rogic-checkbox-54] {
+  top: 400px;
+  left: 300px;
+}
+
+label[for=rogic-checkbox-55] {
+  top: 400px;
+  left: 350px;
+}
+
+label[for=rogic-checkbox-56] {
+  top: 400px;
+  left: 400px;
+}
+
+label[for=rogic-checkbox-57] {
+  top: 400px;
+  left: 450px;
+}
+
+label[for=rogic-checkbox-58] {
+  top: 400px;
+  left: 500px;
+}
+
+label[for=rogic-checkbox-59] {
+  top: 400px;
+  left: 550px;
+}
+
+label[for=rogic-checkbox-60] {
+  top: 400px;
+  left: 600px;
+}
+
+label[for=rogic-checkbox-61] {
+  top: 450px;
+  left: 150px;
+}
+
+label[for=rogic-checkbox-62] {
+  top: 450px;
+  left: 200px;
+}
+
+label[for=rogic-checkbox-63] {
+  top: 450px;
+  left: 250px;
+}
+
+label[for=rogic-checkbox-64] {
+  top: 450px;
+  left: 300px;
+}
+
+label[for=rogic-checkbox-65] {
+  top: 450px;
+  left: 350px;
+}
+
+label[for=rogic-checkbox-66] {
+  top: 450px;
+  left: 400px;
+}
+
+label[for=rogic-checkbox-67] {
+  top: 450px;
+  left: 450px;
+}
+
+label[for=rogic-checkbox-68] {
+  top: 450px;
+  left: 500px;
+}
+
+label[for=rogic-checkbox-69] {
+  top: 450px;
+  left: 550px;
+}
+
+label[for=rogic-checkbox-70] {
+  top: 450px;
+  left: 600px;
+}
+
+label[for=rogic-checkbox-71] {
+  top: 500px;
+  left: 150px;
+}
+
+label[for=rogic-checkbox-72] {
+  top: 500px;
+  left: 200px;
+}
+
+label[for=rogic-checkbox-73] {
+  top: 500px;
+  left: 250px;
+}
+
+label[for=rogic-checkbox-74] {
+  top: 500px;
+  left: 300px;
+}
+
+label[for=rogic-checkbox-75] {
+  top: 500px;
+  left: 350px;
+}
+
+label[for=rogic-checkbox-76] {
+  top: 500px;
+  left: 400px;
+}
+
+label[for=rogic-checkbox-77] {
+  top: 500px;
+  left: 450px;
+}
+
+label[for=rogic-checkbox-78] {
+  top: 500px;
+  left: 500px;
+}
+
+label[for=rogic-checkbox-79] {
+  top: 500px;
+  left: 550px;
+}
+
+label[for=rogic-checkbox-80] {
+  top: 500px;
+  left: 600px;
+}
+
+label[for=rogic-checkbox-81] {
+  top: 550px;
+  left: 150px;
+}
+
+label[for=rogic-checkbox-82] {
+  top: 550px;
+  left: 200px;
+}
+
+label[for=rogic-checkbox-83] {
+  top: 550px;
+  left: 250px;
+}
+
+label[for=rogic-checkbox-84] {
+  top: 550px;
+  left: 300px;
+}
+
+label[for=rogic-checkbox-85] {
+  top: 550px;
+  left: 350px;
+}
+
+label[for=rogic-checkbox-86] {
+  top: 550px;
+  left: 400px;
+}
+
+label[for=rogic-checkbox-87] {
+  top: 550px;
+  left: 450px;
+}
+
+label[for=rogic-checkbox-88] {
+  top: 550px;
+  left: 500px;
+}
+
+label[for=rogic-checkbox-89] {
+  top: 550px;
+  left: 550px;
+}
+
+label[for=rogic-checkbox-90] {
+  top: 550px;
+  left: 600px;
+}
+
+label[for=rogic-checkbox-91] {
+  top: 600px;
+  left: 150px;
+}
+
+label[for=rogic-checkbox-92] {
+  top: 600px;
+  left: 200px;
+}
+
+label[for=rogic-checkbox-93] {
+  top: 600px;
+  left: 250px;
+}
+
+label[for=rogic-checkbox-94] {
+  top: 600px;
+  left: 300px;
+}
+
+label[for=rogic-checkbox-95] {
+  top: 600px;
+  left: 350px;
+}
+
+label[for=rogic-checkbox-96] {
+  top: 600px;
+  left: 400px;
+}
+
+label[for=rogic-checkbox-97] {
+  top: 600px;
+  left: 450px;
+}
+
+label[for=rogic-checkbox-98] {
+  top: 600px;
+  left: 500px;
+}
+
+label[for=rogic-checkbox-99] {
+  top: 600px;
+  left: 550px;
+}
+
+label[for=rogic-checkbox-100] {
+  top: 600px;
+  left: 600px;
+}
+
+#container {
+  position: absolute;
+  width: 650px;
+  height: 650px;
+  top: 0%;
+  left: 0%;
+  margin: 10px;
+}
+
+#container form {
+  overflow: scroll;
+}
+
+#container .rogic-inner {
+  box-shadow: inset 0 0 0 1px #ccc;
+  transition: all .2s ease;
+  display: grid;
+  grid-template-rows: 150px repeat(10, 50px);
+  -ms-grid-rows: 150px repeat(10, 50px);
+  grid-template-columns: 150px repeat(10, 50px);
+  -ms-grid-columns: 150px repeat(10, 50px);
+}
+
+#container .rogic-inner div[class*='rogic-'] {
+  transition: all .2s ease;
+  box-shadow: inset 1px 1px 0 0 #ccc;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  align-content: flex-end;
+}
+
+#container .rogic-inner div[class*='rogic-'] span {
+  text-align: center;
+  width: 100%;
+  display: block;
+  padding: 0 5px;
+}
+
+#container .rogic-inner div.rogic-12 {
+  align-content: center;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#container .rogic-inner div.rogic-12 span {
+  width: auto;
+}
+
+#container .rogic-inner div.rogic-23 {
+  align-content: center;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#container .rogic-inner div.rogic-23 span {
+  width: auto;
+}
+
+#container .rogic-inner div.rogic-34 {
+  align-content: center;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#container .rogic-inner div.rogic-34 span {
+  width: auto;
+}
+
+#container .rogic-inner div.rogic-45 {
+  align-content: center;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#container .rogic-inner div.rogic-45 span {
+  width: auto;
+}
+
+#container .rogic-inner div.rogic-56 {
+  align-content: center;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#container .rogic-inner div.rogic-56 span {
+  width: auto;
+}
+
+#container .rogic-inner div.rogic-67 {
+  align-content: center;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#container .rogic-inner div.rogic-67 span {
+  width: auto;
+}
+
+#container .rogic-inner div.rogic-78 {
+  align-content: center;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#container .rogic-inner div.rogic-78 span {
+  width: auto;
+}
+
+#container .rogic-inner div.rogic-89 {
+  align-content: center;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#container .rogic-inner div.rogic-89 span {
+  width: auto;
+}
+
+#container .rogic-inner div.rogic-100 {
+  align-content: center;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#container .rogic-inner div.rogic-100 span {
+  width: auto;
+}
+
+#container .rogic-inner div.rogic-111 {
+  align-content: center;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#container .rogic-inner div.rogic-111 span {
+  width: auto;
+}
+
+#container .clear_comment {
+  z-index: -1;
+  opacity: 0;
+  position: absolute;
+  transition: opacity .2s ease;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  font-size: 40px;
+  font-weight: bold;
+  color: #81a5ff;
+  text-shadow: 0 0 1px #fff;
+}
+
+#container input[id="rogic-checkbox-1"]:not(:checked) ~
+input[id="rogic-checkbox-2"]:not(:checked) ~
+input[id="rogic-checkbox-3"]:checked ~
+input[id="rogic-checkbox-4"]:checked ~
+input[id="rogic-checkbox-5"]:checked ~
+input[id="rogic-checkbox-6"]:checked ~
+input[id="rogic-checkbox-7"]:checked ~
+input[id="rogic-checkbox-8"]:checked ~
+input[id="rogic-checkbox-9"]:not(:checked) ~
+input[id="rogic-checkbox-10"]:not(:checked) ~
+input[id="rogic-checkbox-11"]:not(:checked) ~
+input[id="rogic-checkbox-12"]:checked ~
+input[id="rogic-checkbox-13"]:checked ~
+input[id="rogic-checkbox-14"]:checked ~
+input[id="rogic-checkbox-15"]:checked ~
+input[id="rogic-checkbox-16"]:checked ~
+input[id="rogic-checkbox-17"]:checked ~
+input[id="rogic-checkbox-18"]:checked ~
+input[id="rogic-checkbox-19"]:checked ~
+input[id="rogic-checkbox-20"]:not(:checked) ~
+input[id="rogic-checkbox-21"]:not(:checked) ~
+input[id="rogic-checkbox-22"]:checked ~
+input[id="rogic-checkbox-23"]:not(:checked) ~
+input[id="rogic-checkbox-24"]:not(:checked) ~
+input[id="rogic-checkbox-25"]:not(:checked) ~
+input[id="rogic-checkbox-26"]:not(:checked) ~
+input[id="rogic-checkbox-27"]:not(:checked) ~
+input[id="rogic-checkbox-28"]:not(:checked) ~
+input[id="rogic-checkbox-29"]:checked ~
+input[id="rogic-checkbox-30"]:not(:checked) ~
+input[id="rogic-checkbox-31"]:checked ~
+input[id="rogic-checkbox-32"]:not(:checked) ~
+input[id="rogic-checkbox-33"]:not(:checked) ~
+input[id="rogic-checkbox-34"]:checked ~
+input[id="rogic-checkbox-35"]:not(:checked) ~
+input[id="rogic-checkbox-36"]:not(:checked) ~
+input[id="rogic-checkbox-37"]:checked ~
+input[id="rogic-checkbox-38"]:not(:checked) ~
+input[id="rogic-checkbox-39"]:not(:checked) ~
+input[id="rogic-checkbox-40"]:checked ~
+input[id="rogic-checkbox-41"]:checked ~
+input[id="rogic-checkbox-42"]:not(:checked) ~
+input[id="rogic-checkbox-43"]:not(:checked) ~
+input[id="rogic-checkbox-44"]:checked ~
+input[id="rogic-checkbox-45"]:not(:checked) ~
+input[id="rogic-checkbox-46"]:not(:checked) ~
+input[id="rogic-checkbox-47"]:checked ~
+input[id="rogic-checkbox-48"]:not(:checked) ~
+input[id="rogic-checkbox-49"]:not(:checked) ~
+input[id="rogic-checkbox-50"]:checked ~
+input[id="rogic-checkbox-51"]:checked ~
+input[id="rogic-checkbox-52"]:not(:checked) ~
+input[id="rogic-checkbox-53"]:not(:checked) ~
+input[id="rogic-checkbox-54"]:not(:checked) ~
+input[id="rogic-checkbox-55"]:checked ~
+input[id="rogic-checkbox-56"]:not(:checked) ~
+input[id="rogic-checkbox-57"]:not(:checked) ~
+input[id="rogic-checkbox-58"]:not(:checked) ~
+input[id="rogic-checkbox-59"]:not(:checked) ~
+input[id="rogic-checkbox-60"]:checked ~
+input[id="rogic-checkbox-61"]:checked ~
+input[id="rogic-checkbox-62"]:not(:checked) ~
+input[id="rogic-checkbox-63"]:checked ~
+input[id="rogic-checkbox-64"]:not(:checked) ~
+input[id="rogic-checkbox-65"]:not(:checked) ~
+input[id="rogic-checkbox-66"]:not(:checked) ~
+input[id="rogic-checkbox-67"]:not(:checked) ~
+input[id="rogic-checkbox-68"]:checked ~
+input[id="rogic-checkbox-69"]:not(:checked) ~
+input[id="rogic-checkbox-70"]:checked ~
+input[id="rogic-checkbox-71"]:checked ~
+input[id="rogic-checkbox-72"]:not(:checked) ~
+input[id="rogic-checkbox-73"]:not(:checked) ~
+input[id="rogic-checkbox-74"]:checked ~
+input[id="rogic-checkbox-75"]:checked ~
+input[id="rogic-checkbox-76"]:checked ~
+input[id="rogic-checkbox-77"]:checked ~
+input[id="rogic-checkbox-78"]:not(:checked) ~
+input[id="rogic-checkbox-79"]:not(:checked) ~
+input[id="rogic-checkbox-80"]:checked ~
+input[id="rogic-checkbox-81"]:not(:checked) ~
+input[id="rogic-checkbox-82"]:checked ~
+input[id="rogic-checkbox-83"]:not(:checked) ~
+input[id="rogic-checkbox-84"]:not(:checked) ~
+input[id="rogic-checkbox-85"]:not(:checked) ~
+input[id="rogic-checkbox-86"]:not(:checked) ~
+input[id="rogic-checkbox-87"]:not(:checked) ~
+input[id="rogic-checkbox-88"]:not(:checked) ~
+input[id="rogic-checkbox-89"]:checked ~
+input[id="rogic-checkbox-90"]:not(:checked) ~
+input[id="rogic-checkbox-91"]:not(:checked) ~
+input[id="rogic-checkbox-92"]:not(:checked) ~
+input[id="rogic-checkbox-93"]:checked ~
+input[id="rogic-checkbox-94"]:checked ~
+input[id="rogic-checkbox-95"]:checked ~
+input[id="rogic-checkbox-96"]:checked ~
+input[id="rogic-checkbox-97"]:checked ~
+input[id="rogic-checkbox-98"]:checked ~
+input[id="rogic-checkbox-99"]:not(:checked) ~
+input[id="rogic-checkbox-100"]:not(:checked) ~ .rogic-inner {
+  transition: all .2s ease;
+  box-shadow: inset 0 0 5px 1px #81a5ff;
+}
+
+#container input[id="rogic-checkbox-1"]:not(:checked) ~
+input[id="rogic-checkbox-2"]:not(:checked) ~
+input[id="rogic-checkbox-3"]:checked ~
+input[id="rogic-checkbox-4"]:checked ~
+input[id="rogic-checkbox-5"]:checked ~
+input[id="rogic-checkbox-6"]:checked ~
+input[id="rogic-checkbox-7"]:checked ~
+input[id="rogic-checkbox-8"]:checked ~
+input[id="rogic-checkbox-9"]:not(:checked) ~
+input[id="rogic-checkbox-10"]:not(:checked) ~
+input[id="rogic-checkbox-11"]:not(:checked) ~
+input[id="rogic-checkbox-12"]:checked ~
+input[id="rogic-checkbox-13"]:checked ~
+input[id="rogic-checkbox-14"]:checked ~
+input[id="rogic-checkbox-15"]:checked ~
+input[id="rogic-checkbox-16"]:checked ~
+input[id="rogic-checkbox-17"]:checked ~
+input[id="rogic-checkbox-18"]:checked ~
+input[id="rogic-checkbox-19"]:checked ~
+input[id="rogic-checkbox-20"]:not(:checked) ~
+input[id="rogic-checkbox-21"]:not(:checked) ~
+input[id="rogic-checkbox-22"]:checked ~
+input[id="rogic-checkbox-23"]:not(:checked) ~
+input[id="rogic-checkbox-24"]:not(:checked) ~
+input[id="rogic-checkbox-25"]:not(:checked) ~
+input[id="rogic-checkbox-26"]:not(:checked) ~
+input[id="rogic-checkbox-27"]:not(:checked) ~
+input[id="rogic-checkbox-28"]:not(:checked) ~
+input[id="rogic-checkbox-29"]:checked ~
+input[id="rogic-checkbox-30"]:not(:checked) ~
+input[id="rogic-checkbox-31"]:checked ~
+input[id="rogic-checkbox-32"]:not(:checked) ~
+input[id="rogic-checkbox-33"]:not(:checked) ~
+input[id="rogic-checkbox-34"]:checked ~
+input[id="rogic-checkbox-35"]:not(:checked) ~
+input[id="rogic-checkbox-36"]:not(:checked) ~
+input[id="rogic-checkbox-37"]:checked ~
+input[id="rogic-checkbox-38"]:not(:checked) ~
+input[id="rogic-checkbox-39"]:not(:checked) ~
+input[id="rogic-checkbox-40"]:checked ~
+input[id="rogic-checkbox-41"]:checked ~
+input[id="rogic-checkbox-42"]:not(:checked) ~
+input[id="rogic-checkbox-43"]:not(:checked) ~
+input[id="rogic-checkbox-44"]:checked ~
+input[id="rogic-checkbox-45"]:not(:checked) ~
+input[id="rogic-checkbox-46"]:not(:checked) ~
+input[id="rogic-checkbox-47"]:checked ~
+input[id="rogic-checkbox-48"]:not(:checked) ~
+input[id="rogic-checkbox-49"]:not(:checked) ~
+input[id="rogic-checkbox-50"]:checked ~
+input[id="rogic-checkbox-51"]:checked ~
+input[id="rogic-checkbox-52"]:not(:checked) ~
+input[id="rogic-checkbox-53"]:not(:checked) ~
+input[id="rogic-checkbox-54"]:not(:checked) ~
+input[id="rogic-checkbox-55"]:checked ~
+input[id="rogic-checkbox-56"]:not(:checked) ~
+input[id="rogic-checkbox-57"]:not(:checked) ~
+input[id="rogic-checkbox-58"]:not(:checked) ~
+input[id="rogic-checkbox-59"]:not(:checked) ~
+input[id="rogic-checkbox-60"]:checked ~
+input[id="rogic-checkbox-61"]:checked ~
+input[id="rogic-checkbox-62"]:not(:checked) ~
+input[id="rogic-checkbox-63"]:checked ~
+input[id="rogic-checkbox-64"]:not(:checked) ~
+input[id="rogic-checkbox-65"]:not(:checked) ~
+input[id="rogic-checkbox-66"]:not(:checked) ~
+input[id="rogic-checkbox-67"]:not(:checked) ~
+input[id="rogic-checkbox-68"]:checked ~
+input[id="rogic-checkbox-69"]:not(:checked) ~
+input[id="rogic-checkbox-70"]:checked ~
+input[id="rogic-checkbox-71"]:checked ~
+input[id="rogic-checkbox-72"]:not(:checked) ~
+input[id="rogic-checkbox-73"]:not(:checked) ~
+input[id="rogic-checkbox-74"]:checked ~
+input[id="rogic-checkbox-75"]:checked ~
+input[id="rogic-checkbox-76"]:checked ~
+input[id="rogic-checkbox-77"]:checked ~
+input[id="rogic-checkbox-78"]:not(:checked) ~
+input[id="rogic-checkbox-79"]:not(:checked) ~
+input[id="rogic-checkbox-80"]:checked ~
+input[id="rogic-checkbox-81"]:not(:checked) ~
+input[id="rogic-checkbox-82"]:checked ~
+input[id="rogic-checkbox-83"]:not(:checked) ~
+input[id="rogic-checkbox-84"]:not(:checked) ~
+input[id="rogic-checkbox-85"]:not(:checked) ~
+input[id="rogic-checkbox-86"]:not(:checked) ~
+input[id="rogic-checkbox-87"]:not(:checked) ~
+input[id="rogic-checkbox-88"]:not(:checked) ~
+input[id="rogic-checkbox-89"]:checked ~
+input[id="rogic-checkbox-90"]:not(:checked) ~
+input[id="rogic-checkbox-91"]:not(:checked) ~
+input[id="rogic-checkbox-92"]:not(:checked) ~
+input[id="rogic-checkbox-93"]:checked ~
+input[id="rogic-checkbox-94"]:checked ~
+input[id="rogic-checkbox-95"]:checked ~
+input[id="rogic-checkbox-96"]:checked ~
+input[id="rogic-checkbox-97"]:checked ~
+input[id="rogic-checkbox-98"]:checked ~
+input[id="rogic-checkbox-99"]:not(:checked) ~
+input[id="rogic-checkbox-100"]:not(:checked) ~ .rogic-inner div[class*='rogic-'] {
+  transition: all .2s ease;
+  box-shadow: inset 1px 1px 0 0 #81a5ff;
+}
+
+#container input[id="rogic-checkbox-1"]:not(:checked) ~
+input[id="rogic-checkbox-2"]:not(:checked) ~
+input[id="rogic-checkbox-3"]:checked ~
+input[id="rogic-checkbox-4"]:checked ~
+input[id="rogic-checkbox-5"]:checked ~
+input[id="rogic-checkbox-6"]:checked ~
+input[id="rogic-checkbox-7"]:checked ~
+input[id="rogic-checkbox-8"]:checked ~
+input[id="rogic-checkbox-9"]:not(:checked) ~
+input[id="rogic-checkbox-10"]:not(:checked) ~
+input[id="rogic-checkbox-11"]:not(:checked) ~
+input[id="rogic-checkbox-12"]:checked ~
+input[id="rogic-checkbox-13"]:checked ~
+input[id="rogic-checkbox-14"]:checked ~
+input[id="rogic-checkbox-15"]:checked ~
+input[id="rogic-checkbox-16"]:checked ~
+input[id="rogic-checkbox-17"]:checked ~
+input[id="rogic-checkbox-18"]:checked ~
+input[id="rogic-checkbox-19"]:checked ~
+input[id="rogic-checkbox-20"]:not(:checked) ~
+input[id="rogic-checkbox-21"]:not(:checked) ~
+input[id="rogic-checkbox-22"]:checked ~
+input[id="rogic-checkbox-23"]:not(:checked) ~
+input[id="rogic-checkbox-24"]:not(:checked) ~
+input[id="rogic-checkbox-25"]:not(:checked) ~
+input[id="rogic-checkbox-26"]:not(:checked) ~
+input[id="rogic-checkbox-27"]:not(:checked) ~
+input[id="rogic-checkbox-28"]:not(:checked) ~
+input[id="rogic-checkbox-29"]:checked ~
+input[id="rogic-checkbox-30"]:not(:checked) ~
+input[id="rogic-checkbox-31"]:checked ~
+input[id="rogic-checkbox-32"]:not(:checked) ~
+input[id="rogic-checkbox-33"]:not(:checked) ~
+input[id="rogic-checkbox-34"]:checked ~
+input[id="rogic-checkbox-35"]:not(:checked) ~
+input[id="rogic-checkbox-36"]:not(:checked) ~
+input[id="rogic-checkbox-37"]:checked ~
+input[id="rogic-checkbox-38"]:not(:checked) ~
+input[id="rogic-checkbox-39"]:not(:checked) ~
+input[id="rogic-checkbox-40"]:checked ~
+input[id="rogic-checkbox-41"]:checked ~
+input[id="rogic-checkbox-42"]:not(:checked) ~
+input[id="rogic-checkbox-43"]:not(:checked) ~
+input[id="rogic-checkbox-44"]:checked ~
+input[id="rogic-checkbox-45"]:not(:checked) ~
+input[id="rogic-checkbox-46"]:not(:checked) ~
+input[id="rogic-checkbox-47"]:checked ~
+input[id="rogic-checkbox-48"]:not(:checked) ~
+input[id="rogic-checkbox-49"]:not(:checked) ~
+input[id="rogic-checkbox-50"]:checked ~
+input[id="rogic-checkbox-51"]:checked ~
+input[id="rogic-checkbox-52"]:not(:checked) ~
+input[id="rogic-checkbox-53"]:not(:checked) ~
+input[id="rogic-checkbox-54"]:not(:checked) ~
+input[id="rogic-checkbox-55"]:checked ~
+input[id="rogic-checkbox-56"]:not(:checked) ~
+input[id="rogic-checkbox-57"]:not(:checked) ~
+input[id="rogic-checkbox-58"]:not(:checked) ~
+input[id="rogic-checkbox-59"]:not(:checked) ~
+input[id="rogic-checkbox-60"]:checked ~
+input[id="rogic-checkbox-61"]:checked ~
+input[id="rogic-checkbox-62"]:not(:checked) ~
+input[id="rogic-checkbox-63"]:checked ~
+input[id="rogic-checkbox-64"]:not(:checked) ~
+input[id="rogic-checkbox-65"]:not(:checked) ~
+input[id="rogic-checkbox-66"]:not(:checked) ~
+input[id="rogic-checkbox-67"]:not(:checked) ~
+input[id="rogic-checkbox-68"]:checked ~
+input[id="rogic-checkbox-69"]:not(:checked) ~
+input[id="rogic-checkbox-70"]:checked ~
+input[id="rogic-checkbox-71"]:checked ~
+input[id="rogic-checkbox-72"]:not(:checked) ~
+input[id="rogic-checkbox-73"]:not(:checked) ~
+input[id="rogic-checkbox-74"]:checked ~
+input[id="rogic-checkbox-75"]:checked ~
+input[id="rogic-checkbox-76"]:checked ~
+input[id="rogic-checkbox-77"]:checked ~
+input[id="rogic-checkbox-78"]:not(:checked) ~
+input[id="rogic-checkbox-79"]:not(:checked) ~
+input[id="rogic-checkbox-80"]:checked ~
+input[id="rogic-checkbox-81"]:not(:checked) ~
+input[id="rogic-checkbox-82"]:checked ~
+input[id="rogic-checkbox-83"]:not(:checked) ~
+input[id="rogic-checkbox-84"]:not(:checked) ~
+input[id="rogic-checkbox-85"]:not(:checked) ~
+input[id="rogic-checkbox-86"]:not(:checked) ~
+input[id="rogic-checkbox-87"]:not(:checked) ~
+input[id="rogic-checkbox-88"]:not(:checked) ~
+input[id="rogic-checkbox-89"]:checked ~
+input[id="rogic-checkbox-90"]:not(:checked) ~
+input[id="rogic-checkbox-91"]:not(:checked) ~
+input[id="rogic-checkbox-92"]:not(:checked) ~
+input[id="rogic-checkbox-93"]:checked ~
+input[id="rogic-checkbox-94"]:checked ~
+input[id="rogic-checkbox-95"]:checked ~
+input[id="rogic-checkbox-96"]:checked ~
+input[id="rogic-checkbox-97"]:checked ~
+input[id="rogic-checkbox-98"]:checked ~
+input[id="rogic-checkbox-99"]:not(:checked) ~
+input[id="rogic-checkbox-100"]:not(:checked) ~ .rogic-inner ~ .clear_comment {
+  z-index: 1;
+  opacity: 1;
+  transition: opacity .2s ease;
+}
