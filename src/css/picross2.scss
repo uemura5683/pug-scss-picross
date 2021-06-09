@@ -1,0 +1,291 @@
+/* foundation */
+$white: #fff;
+$gray: #ccc;
+$black: #000;
+$blue: #81a5ff;
+$fs-min: 1;
+$fs-max: 100;
+$row: 12, 23, 34, 45, 56, 67, 78, 89, 100, 111;
+
+/* reset */
+div, input, label span {
+  font-family: "Open Sans", "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
+}
+input {
+  display: none;
+  &:checked + label {
+    background: $black;
+  }
+  &[type="reset"] {
+    + label {
+      position: fixed;
+      top: 10px;
+      left: 0;
+      width: auto;
+      padding: 5px 10px;
+      height: auto;
+      background: $white;
+      box-shadow: 0 0 0 1px $gray, 1px 1px 0 0 $gray, 2px 2px 0 0 $gray, 3px 3px 0 0 $gray, 4px 4px 0 0 $gray;
+      transition: all .2s ease;
+      &:hover {
+        background: $black;
+        color: $white;
+        transition: all .2s ease;
+      }
+    }
+  }
+}
+label {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  @for $i from $fs-min through $fs-max {
+    $left: 0;
+    @if $i == 1 or $i == 11 or $i == 21 or $i == 31 or $i == 41 or $i == 51 or $i == 61 or $i == 71 or $i == 81 or $i == 91 {
+      $left: 150px;
+    } @else if $i == 2 or $i == 12 or $i == 22 or $i == 32 or $i == 42 or $i == 52 or $i == 62 or $i == 72 or $i == 82 or $i == 92 {
+      $left: 200px;
+    } @else if $i == 3 or $i == 13 or $i == 23 or $i == 33 or $i == 43 or $i == 53 or $i == 63 or $i == 73 or $i == 83 or $i == 93 {
+      $left: 250px;
+    } @else if $i == 4 or $i == 14 or $i == 24 or $i == 34 or $i == 44 or $i == 54 or $i == 64 or $i == 74 or $i == 84 or $i == 94 {
+      $left: 300px;
+    } @else if $i == 5 or $i == 15 or $i == 25 or $i == 35 or $i == 45 or $i == 55 or $i == 65 or $i == 75 or $i == 85 or $i == 95 {
+      $left: 350px;
+    } @else if $i == 6 or $i == 16 or $i == 26 or $i == 36 or $i == 46 or $i == 56 or $i == 66 or $i == 76 or $i == 86 or $i == 96 {
+      $left: 400px;
+    } @else if $i == 7 or $i == 17 or $i == 27 or $i == 37 or $i == 47 or $i == 57 or $i == 67 or $i == 77 or $i == 87 or $i == 97 {
+      $left: 450px;
+    } @else if $i == 8 or $i == 18 or $i == 28 or $i == 38 or $i == 48 or $i == 58 or $i == 68 or $i == 78 or $i == 88 or $i == 98 {
+      $left: 500px;
+    } @else if $i == 9 or $i == 19 or $i == 29 or $i == 39 or $i == 49 or $i == 59 or $i == 69 or $i == 79 or $i == 89 or $i == 99 {
+      $left: 550px;
+    } @else if $i == 10 or $i == 20 or $i == 30 or $i == 40 or $i == 50 or $i == 60 or $i == 70 or $i == 80 or $i == 90 or $i == 100 {
+      $left: 600px;
+    }
+
+    @if $i <= 10 {
+      &[for=rogic-checkbox-#{$i}] {
+        top: 150px;
+        left: $left;
+      }
+    } @else if $i >= 11 and $i <= 20 {
+      &[for=rogic-checkbox-#{$i}] {
+        top: 200px;
+        left: $left;
+      }        
+    } @else if $i >= 21 and $i <= 30 {
+      &[for=rogic-checkbox-#{$i}] {
+        top: 250px;
+        left: $left;
+      }
+    } @else if $i >= 31 and $i <= 40 {
+      &[for=rogic-checkbox-#{$i}] {
+        top: 300px;
+        left: $left;
+      }
+    } @else if $i >= 41 and $i <= 50 {
+      &[for=rogic-checkbox-#{$i}] {
+        top: 350px;
+        left: $left;
+      }
+    } @else if $i >= 51 and $i <= 60 {
+      &[for=rogic-checkbox-#{$i}] {
+        top: 400px;
+        left: $left;
+      }
+    } @else if $i >= 61 and $i <= 70 {
+      &[for=rogic-checkbox-#{$i}] {
+        top: 450px;
+        left: $left;
+      }
+    } @else if $i >= 71 and $i <= 80 {
+      &[for=rogic-checkbox-#{$i}] {
+        top: 500px;
+        left: $left;
+      }
+    } @else if $i >= 81 and $i <= 90 {
+      &[for=rogic-checkbox-#{$i}] {
+        top: 550px;
+        left: $left;
+      }
+    } @else if $i >= 91 and $i <= 100 {
+      &[for=rogic-checkbox-#{$i}] {
+        top: 600px;
+        left: $left;
+      }
+    }
+  }
+}
+
+#container {
+  position: absolute;
+  width: 650px;
+  height: 650px;
+  top: 0%;
+  left: 0%;
+  margin: 10px;
+  form {
+    overflow: scroll;
+  }
+  .rogic-inner {
+    box-shadow:
+      inset 0 0 0 1px $gray;
+    transition: all .2s ease;
+    display: grid;
+    grid-template-rows: 150px repeat( 10, 50px );
+         -ms-grid-rows: 150px repeat( 10, 50px );
+    grid-template-columns: 150px repeat( 10, 50px );
+         -ms-grid-columns: 150px repeat( 10, 50px );   
+    div[class*='rogic-'] {
+      transition: all .2s ease;
+      box-shadow: inset 1px 1px 0 0 $gray;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-end;
+      align-content: flex-end;
+      span {
+        text-align: center;
+        width: 100%;
+        display: block;
+        padding: 0 5px;
+      }
+    }
+    @each $rows in $row {
+      div.rogic-#{$rows} {
+        align-content: center;
+        justify-content: flex-end;
+        align-items: center;
+        span {
+          width: auto;
+        }
+      }
+    }
+  }
+  .clear_comment {
+    z-index: -1;
+    opacity: 0;
+    position: absolute;
+    transition: opacity .2s ease;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    font-size: 40px;
+    font-weight: bold;
+    color: $blue;
+    text-shadow: 0 0 1px $white;
+  }
+  input[id="rogic-checkbox-1"]:not(:checked) ~
+  input[id="rogic-checkbox-2"]:not(:checked) ~
+  input[id="rogic-checkbox-3"]:checked ~
+  input[id="rogic-checkbox-4"]:checked ~
+  input[id="rogic-checkbox-5"]:checked ~
+  input[id="rogic-checkbox-6"]:checked ~
+  input[id="rogic-checkbox-7"]:checked ~
+  input[id="rogic-checkbox-8"]:checked ~
+  input[id="rogic-checkbox-9"]:not(:checked) ~
+  input[id="rogic-checkbox-10"]:not(:checked) ~
+  input[id="rogic-checkbox-11"]:not(:checked) ~
+  input[id="rogic-checkbox-12"]:checked ~
+  input[id="rogic-checkbox-13"]:checked ~
+  input[id="rogic-checkbox-14"]:checked ~
+  input[id="rogic-checkbox-15"]:checked ~
+  input[id="rogic-checkbox-16"]:checked ~
+  input[id="rogic-checkbox-17"]:checked ~
+  input[id="rogic-checkbox-18"]:checked ~
+  input[id="rogic-checkbox-19"]:checked ~
+  input[id="rogic-checkbox-20"]:not(:checked) ~
+  input[id="rogic-checkbox-21"]:not(:checked) ~
+  input[id="rogic-checkbox-22"]:checked ~
+  input[id="rogic-checkbox-23"]:not(:checked) ~
+  input[id="rogic-checkbox-24"]:not(:checked) ~
+  input[id="rogic-checkbox-25"]:not(:checked) ~
+  input[id="rogic-checkbox-26"]:not(:checked) ~
+  input[id="rogic-checkbox-27"]:not(:checked) ~
+  input[id="rogic-checkbox-28"]:not(:checked) ~
+  input[id="rogic-checkbox-29"]:checked ~
+  input[id="rogic-checkbox-30"]:not(:checked) ~ 
+  input[id="rogic-checkbox-31"]:checked ~
+  input[id="rogic-checkbox-32"]:not(:checked) ~ 
+  input[id="rogic-checkbox-33"]:not(:checked) ~ 
+  input[id="rogic-checkbox-34"]:checked ~
+  input[id="rogic-checkbox-35"]:not(:checked) ~
+  input[id="rogic-checkbox-36"]:not(:checked) ~
+  input[id="rogic-checkbox-37"]:checked ~
+  input[id="rogic-checkbox-38"]:not(:checked) ~
+  input[id="rogic-checkbox-39"]:not(:checked) ~
+  input[id="rogic-checkbox-40"]:checked ~
+  input[id="rogic-checkbox-41"]:checked ~
+  input[id="rogic-checkbox-42"]:not(:checked) ~
+  input[id="rogic-checkbox-43"]:not(:checked) ~
+  input[id="rogic-checkbox-44"]:checked ~
+  input[id="rogic-checkbox-45"]:not(:checked) ~
+  input[id="rogic-checkbox-46"]:not(:checked) ~
+  input[id="rogic-checkbox-47"]:checked ~
+  input[id="rogic-checkbox-48"]:not(:checked) ~
+  input[id="rogic-checkbox-49"]:not(:checked) ~
+  input[id="rogic-checkbox-50"]:checked ~
+  input[id="rogic-checkbox-51"]:checked ~
+  input[id="rogic-checkbox-52"]:not(:checked) ~
+  input[id="rogic-checkbox-53"]:not(:checked) ~
+  input[id="rogic-checkbox-54"]:not(:checked) ~
+  input[id="rogic-checkbox-55"]:checked ~
+  input[id="rogic-checkbox-56"]:not(:checked) ~
+  input[id="rogic-checkbox-57"]:not(:checked) ~
+  input[id="rogic-checkbox-58"]:not(:checked) ~
+  input[id="rogic-checkbox-59"]:not(:checked) ~
+  input[id="rogic-checkbox-60"]:checked ~
+  input[id="rogic-checkbox-61"]:checked ~
+  input[id="rogic-checkbox-62"]:not(:checked) ~
+  input[id="rogic-checkbox-63"]:checked ~
+  input[id="rogic-checkbox-64"]:not(:checked) ~
+  input[id="rogic-checkbox-65"]:not(:checked) ~
+  input[id="rogic-checkbox-66"]:not(:checked) ~
+  input[id="rogic-checkbox-67"]:not(:checked) ~
+  input[id="rogic-checkbox-68"]:checked ~
+  input[id="rogic-checkbox-69"]:not(:checked) ~
+  input[id="rogic-checkbox-70"]:checked ~
+  input[id="rogic-checkbox-71"]:checked ~
+  input[id="rogic-checkbox-72"]:not(:checked) ~
+  input[id="rogic-checkbox-73"]:not(:checked) ~
+  input[id="rogic-checkbox-74"]:checked ~
+  input[id="rogic-checkbox-75"]:checked ~
+  input[id="rogic-checkbox-76"]:checked ~
+  input[id="rogic-checkbox-77"]:checked ~
+  input[id="rogic-checkbox-78"]:not(:checked) ~
+  input[id="rogic-checkbox-79"]:not(:checked) ~
+  input[id="rogic-checkbox-80"]:checked ~
+  input[id="rogic-checkbox-81"]:not(:checked) ~
+  input[id="rogic-checkbox-82"]:checked ~
+  input[id="rogic-checkbox-83"]:not(:checked) ~
+  input[id="rogic-checkbox-84"]:not(:checked) ~
+  input[id="rogic-checkbox-85"]:not(:checked) ~
+  input[id="rogic-checkbox-86"]:not(:checked) ~
+  input[id="rogic-checkbox-87"]:not(:checked) ~
+  input[id="rogic-checkbox-88"]:not(:checked) ~
+  input[id="rogic-checkbox-89"]:checked ~
+  input[id="rogic-checkbox-90"]:not(:checked) ~
+  input[id="rogic-checkbox-91"]:not(:checked) ~
+  input[id="rogic-checkbox-92"]:not(:checked) ~
+  input[id="rogic-checkbox-93"]:checked ~
+  input[id="rogic-checkbox-94"]:checked ~
+  input[id="rogic-checkbox-95"]:checked ~
+  input[id="rogic-checkbox-96"]:checked ~
+  input[id="rogic-checkbox-97"]:checked ~
+  input[id="rogic-checkbox-98"]:checked ~
+  input[id="rogic-checkbox-99"]:not(:checked) ~
+  input[id="rogic-checkbox-100"]:not(:checked) ~.rogic-inner {
+    transition: all .2s ease;
+    box-shadow:
+      inset 0 0 5px 1px $blue;
+      div[class*='rogic-'] {
+        transition: all .2s ease;
+        box-shadow: inset 1px 1px 0 0 $blue;
+      }
+    & ~ .clear_comment {
+      z-index: 1;
+      opacity: 1;
+      transition: opacity .2s ease;
+    }
+  }
+}

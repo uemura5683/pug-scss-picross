@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+html
+  head
+    meta(http-equiv='content-type',content='text/html charset=utf-8')
+    meta(description='pug/scss animation2ページです')
+    title Picross pug/scss animation
+    link(href='css/picross2.css', type='text/css', rel='stylesheet')
+  body
+    #container
+      form
+        input( type="reset" id="reset-btn" )
+        label( for="reset-btn" ) リセット
+        - var n = 1;
+        while n <= 100
+          input( type="checkbox" id=`rogic-checkbox-${n}` )
+          label( for=`rogic-checkbox-${n++}` )
+        .rogic-inner
+          - var d = 1;
+          while d < 122
+            case d
+              when 2
+                div(class=`rogic-${d++}`)
+                  span 5
+              when 3
+                 div(class=`rogic-${d++}`)
+                  span 2
+                  span 1
+              when 4
+                div(class=`rogic-${d++}`)
+                  span 2
+                  span 1
+                  span 1
+              when 5
+                div(class=`rogic-${d++}`)
+                  span 2
+                  span 2
+                  span 1
+                  span 1
+              when 6
+                div(class=`rogic-${d++}`)
+                  span 2
+                  span 1
+                  span 1
+                  span 1
+              when 7
+                div(class=`rogic-${d++}`)
+                  span 2
+                  span 1
+                  span 1
+              when 8
+                div(class=`rogic-${d++}`)
+                  span 2
+                  span 2
+                  span 1
+                  span 1
+              when 9
+                div(class=`rogic-${d++}`)
+                  span 2
+                  span 1
+                  span 1
+              when 10
+                div(class=`rogic-${d++}`)
+                  span 2
+                  span 1
+              when 11
+                div(class=`rogic-${d++}`)
+                  span 5
+              when 12
+                div(class=`rogic-${d++}`)
+                  span 6
+              when 23
+                div(class=`rogic-${d++}`)
+                  span 8
+              when 34
+                div(class=`rogic-${d++}`)
+                  span 1
+                  span 1
+              when 45
+                div(class=`rogic-${d++}`)
+                  span 1
+                  span 1
+                  span 1
+                  span 1
+              when 56
+                div(class=`rogic-${d++}`)
+                  span 1
+                  span 1
+                  span 1
+                  span 1
+              when 67
+                div(class=`rogic-${d++}`)
+                  span 1
+                  span 1
+                  span 1
+              when 78
+                div(class=`rogic-${d++}`)
+                  span 1
+                  span 1
+                  span 1
+                  span 1
+              when 89
+                div(class=`rogic-${d++}`)
+                  span 1
+                  span 4
+                  span 1
+              when 100
+                div(class=`rogic-${d++}`)
+                  span 1
+                  span 1
+              when 111
+                div(class=`rogic-${d++}`)
+                  span 6
+              default
+                div(class=`rogic-${d++}`)
+        .clear_comment Congratulations!
