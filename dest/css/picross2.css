@@ -10,6 +10,7 @@ input {
 
 input:checked + label {
   background: #000;
+  border: 1px solid #fff;
 }
 
 input[type="reset"] + label {
@@ -32,8 +33,8 @@ input[type="reset"] + label:hover {
 
 label {
   position: absolute;
-  width: 50px;
-  height: 50px;
+  width: 25px;
+  height: 25px;
   cursor: pointer;
 }
 
@@ -44,2003 +45,2003 @@ label[for=rogic-checkbox-1] {
 
 label[for=rogic-checkbox-2] {
   top: 200px;
-  left: 250px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-3] {
   top: 200px;
-  left: 300px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-4] {
   top: 200px;
-  left: 350px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-5] {
   top: 200px;
-  left: 400px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-6] {
   top: 200px;
-  left: 450px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-7] {
   top: 200px;
-  left: 500px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-8] {
   top: 200px;
-  left: 550px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-9] {
   top: 200px;
-  left: 600px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-10] {
   top: 200px;
-  left: 650px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-11] {
   top: 200px;
-  left: 700px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-12] {
   top: 200px;
-  left: 750px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-13] {
   top: 200px;
-  left: 800px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-14] {
   top: 200px;
-  left: 850px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-15] {
   top: 200px;
-  left: 900px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-16] {
   top: 200px;
-  left: 950px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-17] {
   top: 200px;
-  left: 1000px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-18] {
   top: 200px;
-  left: 1050px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-19] {
   top: 200px;
-  left: 1100px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-20] {
   top: 200px;
-  left: 1150px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-21] {
-  top: 250px;
+  top: 225px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-22] {
-  top: 250px;
-  left: 250px;
+  top: 225px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-23] {
-  top: 250px;
-  left: 300px;
+  top: 225px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-24] {
-  top: 250px;
-  left: 350px;
+  top: 225px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-25] {
-  top: 250px;
-  left: 400px;
+  top: 225px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-26] {
-  top: 250px;
-  left: 450px;
+  top: 225px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-27] {
-  top: 250px;
-  left: 500px;
+  top: 225px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-28] {
-  top: 250px;
-  left: 550px;
+  top: 225px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-29] {
-  top: 250px;
-  left: 600px;
+  top: 225px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-30] {
-  top: 250px;
-  left: 650px;
+  top: 225px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-31] {
-  top: 250px;
-  left: 700px;
+  top: 225px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-32] {
-  top: 250px;
-  left: 750px;
+  top: 225px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-33] {
-  top: 250px;
-  left: 800px;
+  top: 225px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-34] {
-  top: 250px;
-  left: 850px;
+  top: 225px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-35] {
-  top: 250px;
-  left: 900px;
+  top: 225px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-36] {
-  top: 250px;
-  left: 950px;
+  top: 225px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-37] {
-  top: 250px;
-  left: 1000px;
+  top: 225px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-38] {
-  top: 250px;
-  left: 1050px;
+  top: 225px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-39] {
-  top: 250px;
-  left: 1100px;
+  top: 225px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-40] {
-  top: 250px;
-  left: 1150px;
+  top: 225px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-41] {
-  top: 300px;
+  top: 250px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-42] {
-  top: 300px;
-  left: 250px;
+  top: 250px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-43] {
-  top: 300px;
-  left: 300px;
+  top: 250px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-44] {
-  top: 300px;
-  left: 350px;
+  top: 250px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-45] {
-  top: 300px;
-  left: 400px;
+  top: 250px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-46] {
-  top: 300px;
-  left: 450px;
+  top: 250px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-47] {
-  top: 300px;
-  left: 500px;
+  top: 250px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-48] {
-  top: 300px;
-  left: 550px;
+  top: 250px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-49] {
-  top: 300px;
-  left: 600px;
+  top: 250px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-50] {
-  top: 300px;
-  left: 650px;
+  top: 250px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-51] {
-  top: 300px;
-  left: 700px;
+  top: 250px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-52] {
-  top: 300px;
-  left: 750px;
+  top: 250px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-53] {
-  top: 300px;
-  left: 800px;
+  top: 250px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-54] {
-  top: 300px;
-  left: 850px;
+  top: 250px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-55] {
-  top: 300px;
-  left: 900px;
+  top: 250px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-56] {
-  top: 300px;
-  left: 950px;
+  top: 250px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-57] {
-  top: 300px;
-  left: 1000px;
+  top: 250px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-58] {
-  top: 300px;
-  left: 1050px;
+  top: 250px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-59] {
-  top: 300px;
-  left: 1100px;
+  top: 250px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-60] {
-  top: 300px;
-  left: 1150px;
+  top: 250px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-61] {
-  top: 350px;
+  top: 275px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-62] {
-  top: 350px;
-  left: 250px;
+  top: 275px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-63] {
-  top: 350px;
-  left: 300px;
+  top: 275px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-64] {
-  top: 350px;
-  left: 350px;
+  top: 275px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-65] {
-  top: 350px;
-  left: 400px;
+  top: 275px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-66] {
-  top: 350px;
-  left: 450px;
+  top: 275px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-67] {
-  top: 350px;
-  left: 500px;
+  top: 275px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-68] {
-  top: 350px;
-  left: 550px;
+  top: 275px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-69] {
-  top: 350px;
-  left: 600px;
+  top: 275px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-70] {
-  top: 350px;
-  left: 650px;
+  top: 275px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-71] {
-  top: 350px;
-  left: 700px;
+  top: 275px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-72] {
-  top: 350px;
-  left: 750px;
+  top: 275px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-73] {
-  top: 350px;
-  left: 800px;
+  top: 275px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-74] {
-  top: 350px;
-  left: 850px;
+  top: 275px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-75] {
-  top: 350px;
-  left: 900px;
+  top: 275px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-76] {
-  top: 350px;
-  left: 950px;
+  top: 275px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-77] {
-  top: 350px;
-  left: 1000px;
+  top: 275px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-78] {
-  top: 350px;
-  left: 1050px;
+  top: 275px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-79] {
-  top: 350px;
-  left: 1100px;
+  top: 275px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-80] {
-  top: 350px;
-  left: 1150px;
+  top: 275px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-81] {
-  top: 400px;
+  top: 300px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-82] {
-  top: 400px;
-  left: 250px;
+  top: 300px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-83] {
-  top: 400px;
-  left: 300px;
+  top: 300px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-84] {
-  top: 400px;
-  left: 350px;
+  top: 300px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-85] {
-  top: 400px;
-  left: 400px;
+  top: 300px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-86] {
-  top: 400px;
-  left: 450px;
+  top: 300px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-87] {
-  top: 400px;
-  left: 500px;
+  top: 300px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-88] {
-  top: 400px;
-  left: 550px;
+  top: 300px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-89] {
-  top: 400px;
-  left: 600px;
+  top: 300px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-90] {
-  top: 400px;
-  left: 650px;
+  top: 300px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-91] {
-  top: 400px;
-  left: 700px;
+  top: 300px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-92] {
-  top: 400px;
-  left: 750px;
+  top: 300px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-93] {
-  top: 400px;
-  left: 800px;
+  top: 300px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-94] {
-  top: 400px;
-  left: 850px;
+  top: 300px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-95] {
-  top: 400px;
-  left: 900px;
+  top: 300px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-96] {
-  top: 400px;
-  left: 950px;
+  top: 300px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-97] {
-  top: 400px;
-  left: 1000px;
+  top: 300px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-98] {
-  top: 400px;
-  left: 1050px;
+  top: 300px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-99] {
-  top: 400px;
-  left: 1100px;
+  top: 300px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-100] {
-  top: 400px;
-  left: 1150px;
+  top: 300px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-101] {
-  top: 450px;
+  top: 325px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-102] {
-  top: 450px;
-  left: 250px;
+  top: 325px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-103] {
-  top: 450px;
-  left: 300px;
+  top: 325px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-104] {
-  top: 450px;
-  left: 350px;
+  top: 325px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-105] {
-  top: 450px;
-  left: 400px;
+  top: 325px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-106] {
-  top: 450px;
-  left: 450px;
+  top: 325px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-107] {
-  top: 450px;
-  left: 500px;
+  top: 325px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-108] {
-  top: 450px;
-  left: 550px;
+  top: 325px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-109] {
-  top: 450px;
-  left: 600px;
+  top: 325px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-110] {
-  top: 450px;
-  left: 650px;
+  top: 325px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-111] {
-  top: 450px;
-  left: 700px;
+  top: 325px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-112] {
-  top: 450px;
-  left: 750px;
+  top: 325px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-113] {
-  top: 450px;
-  left: 800px;
+  top: 325px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-114] {
-  top: 450px;
-  left: 850px;
+  top: 325px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-115] {
-  top: 450px;
-  left: 900px;
+  top: 325px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-116] {
-  top: 450px;
-  left: 950px;
+  top: 325px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-117] {
-  top: 450px;
-  left: 1000px;
+  top: 325px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-118] {
-  top: 450px;
-  left: 1050px;
+  top: 325px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-119] {
-  top: 450px;
-  left: 1100px;
+  top: 325px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-120] {
-  top: 450px;
-  left: 1150px;
+  top: 325px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-121] {
-  top: 500px;
+  top: 350px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-122] {
-  top: 500px;
-  left: 250px;
+  top: 350px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-123] {
-  top: 500px;
-  left: 300px;
+  top: 350px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-124] {
-  top: 500px;
-  left: 350px;
+  top: 350px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-125] {
-  top: 500px;
-  left: 400px;
+  top: 350px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-126] {
-  top: 500px;
-  left: 450px;
+  top: 350px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-127] {
-  top: 500px;
-  left: 500px;
+  top: 350px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-128] {
-  top: 500px;
-  left: 550px;
+  top: 350px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-129] {
-  top: 500px;
-  left: 600px;
+  top: 350px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-130] {
-  top: 500px;
-  left: 650px;
+  top: 350px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-131] {
-  top: 500px;
-  left: 700px;
+  top: 350px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-132] {
-  top: 500px;
-  left: 750px;
+  top: 350px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-133] {
-  top: 500px;
-  left: 800px;
+  top: 350px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-134] {
-  top: 500px;
-  left: 850px;
+  top: 350px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-135] {
-  top: 500px;
-  left: 900px;
+  top: 350px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-136] {
-  top: 500px;
-  left: 950px;
+  top: 350px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-137] {
-  top: 500px;
-  left: 1000px;
+  top: 350px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-138] {
-  top: 500px;
-  left: 1050px;
+  top: 350px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-139] {
-  top: 500px;
-  left: 1100px;
+  top: 350px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-140] {
-  top: 500px;
-  left: 1150px;
+  top: 350px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-141] {
-  top: 550px;
+  top: 375px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-142] {
-  top: 550px;
-  left: 250px;
+  top: 375px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-143] {
-  top: 550px;
-  left: 300px;
+  top: 375px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-144] {
-  top: 550px;
-  left: 350px;
+  top: 375px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-145] {
-  top: 550px;
-  left: 400px;
+  top: 375px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-146] {
-  top: 550px;
-  left: 450px;
+  top: 375px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-147] {
-  top: 550px;
-  left: 500px;
+  top: 375px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-148] {
-  top: 550px;
-  left: 550px;
+  top: 375px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-149] {
-  top: 550px;
-  left: 600px;
+  top: 375px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-150] {
-  top: 550px;
-  left: 650px;
+  top: 375px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-151] {
-  top: 550px;
-  left: 700px;
+  top: 375px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-152] {
-  top: 550px;
-  left: 750px;
+  top: 375px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-153] {
-  top: 550px;
-  left: 800px;
+  top: 375px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-154] {
-  top: 550px;
-  left: 850px;
+  top: 375px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-155] {
-  top: 550px;
-  left: 900px;
+  top: 375px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-156] {
-  top: 550px;
-  left: 950px;
+  top: 375px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-157] {
-  top: 550px;
-  left: 1000px;
+  top: 375px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-158] {
-  top: 550px;
-  left: 1050px;
+  top: 375px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-159] {
-  top: 550px;
-  left: 1100px;
+  top: 375px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-160] {
-  top: 550px;
-  left: 1150px;
+  top: 375px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-161] {
-  top: 600px;
+  top: 400px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-162] {
-  top: 600px;
-  left: 250px;
+  top: 400px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-163] {
-  top: 600px;
-  left: 300px;
+  top: 400px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-164] {
-  top: 600px;
-  left: 350px;
+  top: 400px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-165] {
-  top: 600px;
-  left: 400px;
+  top: 400px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-166] {
-  top: 600px;
-  left: 450px;
+  top: 400px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-167] {
-  top: 600px;
-  left: 500px;
+  top: 400px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-168] {
-  top: 600px;
-  left: 550px;
+  top: 400px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-169] {
-  top: 600px;
-  left: 600px;
+  top: 400px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-170] {
-  top: 600px;
-  left: 650px;
+  top: 400px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-171] {
-  top: 600px;
-  left: 700px;
+  top: 400px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-172] {
-  top: 600px;
-  left: 750px;
+  top: 400px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-173] {
-  top: 600px;
-  left: 800px;
+  top: 400px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-174] {
-  top: 600px;
-  left: 850px;
+  top: 400px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-175] {
-  top: 600px;
-  left: 900px;
+  top: 400px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-176] {
-  top: 600px;
-  left: 950px;
+  top: 400px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-177] {
-  top: 600px;
-  left: 1000px;
+  top: 400px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-178] {
-  top: 600px;
-  left: 1050px;
+  top: 400px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-179] {
-  top: 600px;
-  left: 1100px;
+  top: 400px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-180] {
-  top: 600px;
-  left: 1150px;
+  top: 400px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-181] {
-  top: 650px;
+  top: 425px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-182] {
-  top: 650px;
-  left: 250px;
+  top: 425px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-183] {
-  top: 650px;
-  left: 300px;
+  top: 425px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-184] {
-  top: 650px;
-  left: 350px;
+  top: 425px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-185] {
-  top: 650px;
-  left: 400px;
+  top: 425px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-186] {
-  top: 650px;
-  left: 450px;
+  top: 425px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-187] {
-  top: 650px;
-  left: 500px;
+  top: 425px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-188] {
-  top: 650px;
-  left: 550px;
+  top: 425px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-189] {
-  top: 650px;
-  left: 600px;
+  top: 425px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-190] {
-  top: 650px;
-  left: 650px;
+  top: 425px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-191] {
-  top: 650px;
-  left: 700px;
+  top: 425px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-192] {
-  top: 650px;
-  left: 750px;
+  top: 425px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-193] {
-  top: 650px;
-  left: 800px;
+  top: 425px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-194] {
-  top: 650px;
-  left: 850px;
+  top: 425px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-195] {
-  top: 650px;
-  left: 900px;
+  top: 425px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-196] {
-  top: 650px;
-  left: 950px;
+  top: 425px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-197] {
-  top: 650px;
-  left: 1000px;
+  top: 425px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-198] {
-  top: 650px;
-  left: 1050px;
+  top: 425px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-199] {
-  top: 650px;
-  left: 1100px;
+  top: 425px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-200] {
-  top: 650px;
-  left: 1150px;
+  top: 425px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-201] {
-  top: 700px;
+  top: 450px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-202] {
-  top: 700px;
-  left: 250px;
+  top: 450px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-203] {
-  top: 700px;
-  left: 300px;
+  top: 450px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-204] {
-  top: 700px;
-  left: 350px;
+  top: 450px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-205] {
-  top: 700px;
-  left: 400px;
+  top: 450px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-206] {
-  top: 700px;
-  left: 450px;
+  top: 450px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-207] {
-  top: 700px;
-  left: 500px;
+  top: 450px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-208] {
-  top: 700px;
-  left: 550px;
+  top: 450px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-209] {
-  top: 700px;
-  left: 600px;
+  top: 450px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-210] {
-  top: 700px;
-  left: 650px;
+  top: 450px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-211] {
-  top: 700px;
-  left: 700px;
+  top: 450px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-212] {
-  top: 700px;
-  left: 750px;
+  top: 450px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-213] {
-  top: 700px;
-  left: 800px;
+  top: 450px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-214] {
-  top: 700px;
-  left: 850px;
+  top: 450px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-215] {
-  top: 700px;
-  left: 900px;
+  top: 450px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-216] {
-  top: 700px;
-  left: 950px;
+  top: 450px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-217] {
-  top: 700px;
-  left: 1000px;
+  top: 450px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-218] {
-  top: 700px;
-  left: 1050px;
+  top: 450px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-219] {
-  top: 700px;
-  left: 1100px;
+  top: 450px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-220] {
-  top: 700px;
-  left: 1150px;
+  top: 450px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-221] {
-  top: 750px;
+  top: 475px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-222] {
-  top: 750px;
-  left: 250px;
+  top: 475px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-223] {
-  top: 750px;
-  left: 300px;
+  top: 475px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-224] {
-  top: 750px;
-  left: 350px;
+  top: 475px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-225] {
-  top: 750px;
-  left: 400px;
+  top: 475px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-226] {
-  top: 750px;
-  left: 450px;
+  top: 475px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-227] {
-  top: 750px;
-  left: 500px;
+  top: 475px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-228] {
-  top: 750px;
-  left: 550px;
+  top: 475px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-229] {
-  top: 750px;
-  left: 600px;
+  top: 475px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-230] {
-  top: 750px;
-  left: 650px;
+  top: 475px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-231] {
-  top: 750px;
-  left: 700px;
+  top: 475px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-232] {
-  top: 750px;
-  left: 750px;
+  top: 475px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-233] {
-  top: 750px;
-  left: 800px;
+  top: 475px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-234] {
-  top: 750px;
-  left: 850px;
+  top: 475px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-235] {
-  top: 750px;
-  left: 900px;
+  top: 475px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-236] {
-  top: 750px;
-  left: 950px;
+  top: 475px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-237] {
-  top: 750px;
-  left: 1000px;
+  top: 475px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-238] {
-  top: 750px;
-  left: 1050px;
+  top: 475px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-239] {
-  top: 750px;
-  left: 1100px;
+  top: 475px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-240] {
-  top: 750px;
-  left: 1150px;
+  top: 475px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-241] {
-  top: 800px;
+  top: 500px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-242] {
-  top: 800px;
-  left: 250px;
+  top: 500px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-243] {
-  top: 800px;
-  left: 300px;
+  top: 500px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-244] {
-  top: 800px;
-  left: 350px;
+  top: 500px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-245] {
-  top: 800px;
-  left: 400px;
+  top: 500px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-246] {
-  top: 800px;
-  left: 450px;
+  top: 500px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-247] {
-  top: 800px;
-  left: 500px;
+  top: 500px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-248] {
-  top: 800px;
-  left: 550px;
+  top: 500px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-249] {
-  top: 800px;
-  left: 600px;
+  top: 500px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-250] {
-  top: 800px;
-  left: 650px;
+  top: 500px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-251] {
-  top: 800px;
-  left: 700px;
+  top: 500px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-252] {
-  top: 800px;
-  left: 750px;
+  top: 500px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-253] {
-  top: 800px;
-  left: 800px;
+  top: 500px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-254] {
-  top: 800px;
-  left: 850px;
+  top: 500px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-255] {
-  top: 800px;
-  left: 900px;
+  top: 500px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-256] {
-  top: 800px;
-  left: 950px;
+  top: 500px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-257] {
-  top: 800px;
-  left: 1000px;
+  top: 500px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-258] {
-  top: 800px;
-  left: 1050px;
+  top: 500px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-259] {
-  top: 800px;
-  left: 1100px;
+  top: 500px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-260] {
-  top: 800px;
-  left: 1150px;
+  top: 500px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-261] {
-  top: 850px;
+  top: 525px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-262] {
-  top: 850px;
-  left: 250px;
+  top: 525px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-263] {
-  top: 850px;
-  left: 300px;
+  top: 525px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-264] {
-  top: 850px;
-  left: 350px;
+  top: 525px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-265] {
-  top: 850px;
-  left: 400px;
+  top: 525px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-266] {
-  top: 850px;
-  left: 450px;
+  top: 525px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-267] {
-  top: 850px;
-  left: 500px;
+  top: 525px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-268] {
-  top: 850px;
-  left: 550px;
+  top: 525px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-269] {
-  top: 850px;
-  left: 600px;
+  top: 525px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-270] {
-  top: 850px;
-  left: 650px;
+  top: 525px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-271] {
-  top: 850px;
-  left: 700px;
+  top: 525px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-272] {
-  top: 850px;
-  left: 750px;
+  top: 525px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-273] {
-  top: 850px;
-  left: 800px;
+  top: 525px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-274] {
-  top: 850px;
-  left: 850px;
+  top: 525px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-275] {
-  top: 850px;
-  left: 900px;
+  top: 525px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-276] {
-  top: 850px;
-  left: 950px;
+  top: 525px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-277] {
-  top: 850px;
-  left: 1000px;
+  top: 525px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-278] {
-  top: 850px;
-  left: 1050px;
+  top: 525px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-279] {
-  top: 850px;
-  left: 1100px;
+  top: 525px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-280] {
-  top: 850px;
-  left: 1150px;
+  top: 525px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-281] {
-  top: 900px;
+  top: 550px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-282] {
-  top: 900px;
-  left: 250px;
+  top: 550px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-283] {
-  top: 900px;
-  left: 300px;
+  top: 550px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-284] {
-  top: 900px;
-  left: 350px;
+  top: 550px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-285] {
-  top: 900px;
-  left: 400px;
+  top: 550px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-286] {
-  top: 900px;
-  left: 450px;
+  top: 550px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-287] {
-  top: 900px;
-  left: 500px;
+  top: 550px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-288] {
-  top: 900px;
-  left: 550px;
+  top: 550px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-289] {
-  top: 900px;
-  left: 600px;
+  top: 550px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-290] {
-  top: 900px;
-  left: 650px;
+  top: 550px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-291] {
-  top: 900px;
-  left: 700px;
+  top: 550px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-292] {
-  top: 900px;
-  left: 750px;
+  top: 550px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-293] {
-  top: 900px;
-  left: 800px;
+  top: 550px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-294] {
-  top: 900px;
-  left: 850px;
+  top: 550px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-295] {
-  top: 900px;
-  left: 900px;
+  top: 550px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-296] {
-  top: 900px;
-  left: 950px;
+  top: 550px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-297] {
-  top: 900px;
-  left: 1000px;
+  top: 550px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-298] {
-  top: 900px;
-  left: 1050px;
+  top: 550px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-299] {
-  top: 900px;
-  left: 1100px;
+  top: 550px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-300] {
-  top: 900px;
-  left: 1150px;
+  top: 550px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-301] {
-  top: 950px;
+  top: 575px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-302] {
-  top: 950px;
-  left: 250px;
+  top: 575px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-303] {
-  top: 950px;
-  left: 300px;
+  top: 575px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-304] {
-  top: 950px;
-  left: 350px;
+  top: 575px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-305] {
-  top: 950px;
-  left: 400px;
+  top: 575px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-306] {
-  top: 950px;
-  left: 450px;
+  top: 575px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-307] {
-  top: 950px;
-  left: 500px;
+  top: 575px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-308] {
-  top: 950px;
-  left: 550px;
+  top: 575px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-309] {
-  top: 950px;
-  left: 600px;
+  top: 575px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-310] {
-  top: 950px;
-  left: 650px;
+  top: 575px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-311] {
-  top: 950px;
-  left: 700px;
+  top: 575px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-312] {
-  top: 950px;
-  left: 750px;
+  top: 575px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-313] {
-  top: 950px;
-  left: 800px;
+  top: 575px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-314] {
-  top: 950px;
-  left: 850px;
+  top: 575px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-315] {
-  top: 950px;
-  left: 900px;
+  top: 575px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-316] {
-  top: 950px;
-  left: 950px;
+  top: 575px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-317] {
-  top: 950px;
-  left: 1000px;
+  top: 575px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-318] {
-  top: 950px;
-  left: 1050px;
+  top: 575px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-319] {
-  top: 950px;
-  left: 1100px;
+  top: 575px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-320] {
-  top: 950px;
-  left: 1150px;
+  top: 575px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-321] {
-  top: 1000px;
+  top: 600px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-322] {
-  top: 1000px;
-  left: 250px;
+  top: 600px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-323] {
-  top: 1000px;
-  left: 300px;
+  top: 600px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-324] {
-  top: 1000px;
-  left: 350px;
+  top: 600px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-325] {
-  top: 1000px;
-  left: 400px;
+  top: 600px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-326] {
-  top: 1000px;
-  left: 450px;
+  top: 600px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-327] {
-  top: 1000px;
-  left: 500px;
+  top: 600px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-328] {
-  top: 1000px;
-  left: 550px;
+  top: 600px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-329] {
-  top: 1000px;
-  left: 600px;
+  top: 600px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-330] {
-  top: 1000px;
-  left: 650px;
+  top: 600px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-331] {
-  top: 1000px;
-  left: 700px;
+  top: 600px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-332] {
-  top: 1000px;
-  left: 750px;
+  top: 600px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-333] {
-  top: 1000px;
-  left: 800px;
+  top: 600px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-334] {
-  top: 1000px;
-  left: 850px;
+  top: 600px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-335] {
-  top: 1000px;
-  left: 900px;
+  top: 600px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-336] {
-  top: 1000px;
-  left: 950px;
+  top: 600px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-337] {
-  top: 1000px;
-  left: 1000px;
+  top: 600px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-338] {
-  top: 1000px;
-  left: 1050px;
+  top: 600px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-339] {
-  top: 1000px;
-  left: 1100px;
+  top: 600px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-340] {
-  top: 1000px;
-  left: 1150px;
+  top: 600px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-341] {
-  top: 1050px;
+  top: 625px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-342] {
-  top: 1050px;
-  left: 250px;
+  top: 625px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-343] {
-  top: 1050px;
-  left: 300px;
+  top: 625px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-344] {
-  top: 1050px;
-  left: 350px;
+  top: 625px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-345] {
-  top: 1050px;
-  left: 400px;
+  top: 625px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-346] {
-  top: 1050px;
-  left: 450px;
+  top: 625px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-347] {
-  top: 1050px;
-  left: 500px;
+  top: 625px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-348] {
-  top: 1050px;
-  left: 550px;
+  top: 625px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-349] {
-  top: 1050px;
-  left: 600px;
+  top: 625px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-350] {
-  top: 1050px;
-  left: 650px;
+  top: 625px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-351] {
-  top: 1050px;
-  left: 700px;
+  top: 625px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-352] {
-  top: 1050px;
-  left: 750px;
+  top: 625px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-353] {
-  top: 1050px;
-  left: 800px;
+  top: 625px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-354] {
-  top: 1050px;
-  left: 850px;
+  top: 625px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-355] {
-  top: 1050px;
-  left: 900px;
+  top: 625px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-356] {
-  top: 1050px;
-  left: 950px;
+  top: 625px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-357] {
-  top: 1050px;
-  left: 1000px;
+  top: 625px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-358] {
-  top: 1050px;
-  left: 1050px;
+  top: 625px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-359] {
-  top: 1050px;
-  left: 1100px;
+  top: 625px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-360] {
-  top: 1050px;
-  left: 1150px;
+  top: 625px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-361] {
-  top: 1100px;
+  top: 650px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-362] {
-  top: 1100px;
-  left: 250px;
+  top: 650px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-363] {
-  top: 1100px;
-  left: 300px;
+  top: 650px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-364] {
-  top: 1100px;
-  left: 350px;
+  top: 650px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-365] {
-  top: 1100px;
-  left: 400px;
+  top: 650px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-366] {
-  top: 1100px;
-  left: 450px;
+  top: 650px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-367] {
-  top: 1100px;
-  left: 500px;
+  top: 650px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-368] {
-  top: 1100px;
-  left: 550px;
+  top: 650px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-369] {
-  top: 1100px;
-  left: 600px;
+  top: 650px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-370] {
-  top: 1100px;
-  left: 650px;
+  top: 650px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-371] {
-  top: 1100px;
-  left: 700px;
+  top: 650px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-372] {
-  top: 1100px;
-  left: 750px;
+  top: 650px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-373] {
-  top: 1100px;
-  left: 800px;
+  top: 650px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-374] {
-  top: 1100px;
-  left: 850px;
+  top: 650px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-375] {
-  top: 1100px;
-  left: 900px;
+  top: 650px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-376] {
-  top: 1100px;
-  left: 950px;
+  top: 650px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-377] {
-  top: 1100px;
-  left: 1000px;
+  top: 650px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-378] {
-  top: 1100px;
-  left: 1050px;
+  top: 650px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-379] {
-  top: 1100px;
-  left: 1100px;
+  top: 650px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-380] {
-  top: 1100px;
-  left: 1150px;
+  top: 650px;
+  left: 675px;
 }
 
 label[for=rogic-checkbox-381] {
-  top: 1150px;
+  top: 675px;
   left: 200px;
 }
 
 label[for=rogic-checkbox-382] {
-  top: 1150px;
-  left: 250px;
+  top: 675px;
+  left: 225px;
 }
 
 label[for=rogic-checkbox-383] {
-  top: 1150px;
-  left: 300px;
+  top: 675px;
+  left: 250px;
 }
 
 label[for=rogic-checkbox-384] {
-  top: 1150px;
-  left: 350px;
+  top: 675px;
+  left: 275px;
 }
 
 label[for=rogic-checkbox-385] {
-  top: 1150px;
-  left: 400px;
+  top: 675px;
+  left: 300px;
 }
 
 label[for=rogic-checkbox-386] {
-  top: 1150px;
-  left: 450px;
+  top: 675px;
+  left: 325px;
 }
 
 label[for=rogic-checkbox-387] {
-  top: 1150px;
-  left: 500px;
+  top: 675px;
+  left: 350px;
 }
 
 label[for=rogic-checkbox-388] {
-  top: 1150px;
-  left: 550px;
+  top: 675px;
+  left: 375px;
 }
 
 label[for=rogic-checkbox-389] {
-  top: 1150px;
-  left: 600px;
+  top: 675px;
+  left: 400px;
 }
 
 label[for=rogic-checkbox-390] {
-  top: 1150px;
-  left: 650px;
+  top: 675px;
+  left: 425px;
 }
 
 label[for=rogic-checkbox-391] {
-  top: 1150px;
-  left: 700px;
+  top: 675px;
+  left: 450px;
 }
 
 label[for=rogic-checkbox-392] {
-  top: 1150px;
-  left: 750px;
+  top: 675px;
+  left: 475px;
 }
 
 label[for=rogic-checkbox-393] {
-  top: 1150px;
-  left: 800px;
+  top: 675px;
+  left: 500px;
 }
 
 label[for=rogic-checkbox-394] {
-  top: 1150px;
-  left: 850px;
+  top: 675px;
+  left: 525px;
 }
 
 label[for=rogic-checkbox-395] {
-  top: 1150px;
-  left: 900px;
+  top: 675px;
+  left: 550px;
 }
 
 label[for=rogic-checkbox-396] {
-  top: 1150px;
-  left: 950px;
+  top: 675px;
+  left: 575px;
 }
 
 label[for=rogic-checkbox-397] {
-  top: 1150px;
-  left: 1000px;
+  top: 675px;
+  left: 600px;
 }
 
 label[for=rogic-checkbox-398] {
-  top: 1150px;
-  left: 1050px;
+  top: 675px;
+  left: 625px;
 }
 
 label[for=rogic-checkbox-399] {
-  top: 1150px;
-  left: 1100px;
+  top: 675px;
+  left: 650px;
 }
 
 label[for=rogic-checkbox-400] {
-  top: 1150px;
-  left: 1150px;
+  top: 675px;
+  left: 675px;
 }
 
 #container {
   position: absolute;
-  width: 1200px;
-  height: 1200px;
+  width: 700px;
+  height: 700px;
   top: 0%;
   left: 0%;
   margin: 10px;
@@ -2054,10 +2055,10 @@ label[for=rogic-checkbox-400] {
   box-shadow: inset 0 0 0 1px #ccc;
   transition: all .2s ease;
   display: grid;
-  grid-template-rows: 200px repeat(20, 50px);
-  -ms-grid-rows: 200px repeat(20, 50px);
-  grid-template-columns: 200px repeat(20, 50px);
-  -ms-grid-columns: 200px repeat(20, 50px);
+  grid-template-rows: 200px repeat(20, 25px);
+  -ms-grid-rows: 200px repeat(20, 25px);
+  grid-template-columns: 200px repeat(20, 25px);
+  -ms-grid-columns: 200px repeat(20, 25px);
 }
 
 #container .rogic-inner div[class*='rogic-'] {
@@ -2074,6 +2075,546 @@ label[for=rogic-checkbox-400] {
   width: 100%;
   display: block;
   padding: 0 5px;
+}
+
+#container .rogic-inner div.rogic-7 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-12 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-17 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-22 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-23 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-24 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-25 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-26 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-27 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-28 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-29 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-30 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-31 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-32 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-33 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-34 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-35 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-36 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-37 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-38 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-39 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-40 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-41 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-42 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-49 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-54 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-59 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-70 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-75 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-80 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-91 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-96 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-101 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-112 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-117 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-122 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-127 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-128 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-129 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-130 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-131 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-132 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-133 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-134 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-135 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-136 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-137 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-138 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-139 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-140 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-141 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-142 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-143 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-144 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-145 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-146 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-147 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-154 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-159 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-164 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-175 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-180 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-185 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-196 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-201 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-206 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-217 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-222 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-227 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-232 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-233 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-234 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-235 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-236 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-237 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-238 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-239 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-240 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-241 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-242 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-243 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-244 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-245 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-246 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-247 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-248 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-249 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-250 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-251 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-252 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-259 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-264 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-269 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-280 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-285 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-290 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-301 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-306 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-311 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-322 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-327 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-332 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-337 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-338 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-339 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-340 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-341 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-342 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-343 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-344 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-345 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-346 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-347 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-348 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-349 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-350 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-351 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-352 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-353 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #000;
+}
+
+#container .rogic-inner div.rogic-354 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-355 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-356 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-357 {
+  box-shadow: inset 0 1px 0 0 #000, inset 1px 0 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-364 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-369 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-374 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-385 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-390 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-395 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-406 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-411 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-416 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-427 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-432 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
+}
+
+#container .rogic-inner div.rogic-437 {
+  box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
 }
 
 #container .rogic-inner div.rogic-22 {
@@ -2288,23 +2829,4 @@ label[for=rogic-checkbox-400] {
   font-weight: bold;
   color: #81a5ff;
   text-shadow: 0 0 1px #fff;
-}
-
-#container input[id="rogic-checkbox-1"]:not(:checked) ~
-input[id="rogic-checkbox-2"]:checked ~ .rogic-inner {
-  transition: all .2s ease;
-  box-shadow: inset 0 0 5px 1px #81a5ff;
-}
-
-#container input[id="rogic-checkbox-1"]:not(:checked) ~
-input[id="rogic-checkbox-2"]:checked ~ .rogic-inner div[class*='rogic-'] {
-  transition: all .2s ease;
-  box-shadow: inset 1px 1px 0 0 #81a5ff;
-}
-
-#container input[id="rogic-checkbox-1"]:not(:checked) ~
-input[id="rogic-checkbox-2"]:checked ~ .rogic-inner ~ .clear_comment {
-  z-index: 1;
-  opacity: 1;
-  transition: opacity .2s ease;
 }
