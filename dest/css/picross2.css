@@ -2077,6 +2077,11 @@ label[for=rogic-checkbox-400] {
   padding: 0 5px;
 }
 
+#container .rogic-inner div[class*='rogic-']:nth-child(-n+21) span {
+  letter-spacing: -.2rem;
+  text-indent: -.2rem;
+}
+
 #container .rogic-inner div.rogic-7 {
   box-shadow: inset 1px 0 0 0 #000, inset 0 1px 0 0 #ccc;
 }

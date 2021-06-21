@@ -98,6 +98,10 @@ label {
         padding: 0 5px;
       }
     }
+    div[class*='rogic-']:nth-child(-n+21) span{
+      letter-spacing: -.2rem;
+      text-indent: -.2rem;
+    }
     @for $i from $line-min through $line-max {
       @if ($i >= 22 and $i <= 42) or ($i >= 127 and $i <= 147) or ($i >= 232 and $i <= 252) or ($i >= 337 and $i <= 357) {
           @if $i % 21 == 7 or $i % 21 == 12 or $i % 21 == 17 {
