@@ -2,7 +2,6 @@
 $white: #fff;
 $gray: #ccc;
 $black: #000;
-$blue: #81a5ff;
 $fs-min: 1;
 $fs-max: 422;
 $line-min: 1;
@@ -12,11 +11,11 @@ $numbers: 200px;
 
 $row_ffffff :115, 119;
 $row_000000 :94, 98, 136, 140, 157, 161;
-$row_555556 :29, 30, 31, 32, 33, 34, 35, 36, 38, 39, 40, 49, 50, 58, 61, 62, 69, 70, 79, 83, 89, 90, 101, 104, 109, 110, 122, 125, 126, 129, 130, 143, 147, 150, 168, 170, 171, 189, 191, 210, 212, 230, 231, 233, 237, 251, 254, 258, 272, 276, 277, 278, 279, 292, 293, 296, 301, 313, 317, 322, 333, 334, 338, 344, 353, 356, 359, 366, 373, 377, 381, 387, 392, 393, 394, 399, 403, 408, 409, 410, 411, 412, 413, 425, 426, 427, 428, 429, 433, 434, 435, 436, 437, 438, 439, 440;
-$row_86F2FE :24, 25, 26, 27, 28, 37, 41, 42, 44, 45, 46, 47, 48, 60, 63, 65, 66, 67, 68, 88, 91, 92, 93, 105, 107, 108, 128, 149, 252, 273, 275, 294, 314, 315, 335, 336, 357, 378, 380, 401, 402, 422, 423, 424, 430, 431, 432, 441;
-$row_FEB8DD :51, 52, 53, 54, 55, 56, 57, 59, 71, 72, 73, 74, 75, 76, 77, 78, 80, 81, 82, 84, 86, 87, 95, 96, 97, 99, 100, 102, 103, 111, 112, 113, 114, 116, 117, 118, 120, 121, 123, 124, 131, 132, 133, 134, 135, 137, 138, 139, 141, 142, 144, 145, 146, 151, 152, 153, 154, 155, 156, 158, 159, 160, 162, 163, 164, 165, 166, 167, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 192, 193, 194, 195, 196, 199, 200, 201, 202, 203, 206, 207, 208, 209, 213, 214, 215, 216, 217, 218, 219, 220, 224, 225, 226, 227, 228, 229, 234, 235, 236, 238, 239, 240, 241, 245, 246, 247, 248, 249, 250, 255, 256, 257, 259, 260, 261, 262, 263, 265, 266, 267, 268, 269, 270, 271, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 345, 346, 347, 348, 349, 350, 351, 352, 367, 368, 369, 370, 371, 372, 388, 389, 390, 391;
+$row_555556 :29, 30, 31, 32, 33, 34, 35, 36, 38, 39, 40, 49, 50, 58, 61, 62, 69, 70, 79, 83, 89, 90, 101, 104, 109, 110, 122, 125, 126, 129, 130, 143, 147, 150, 168, 170, 171, 189, 191, 210, 212, 230, 231, 233, 237, 251, 254, 258, 272, 276, 277, 278, 279, 292, 293, 296, 301, 313, 317, 322, 333, 334, 338, 344, 353, 356, 359, 366, 373, 377, 378, 381, 387, 392, 393, 394, 399, 403, 408, 409, 410, 411, 412, 413, 420, 425, 426, 427, 428, 429, 433, 434, 435, 436, 437, 438, 439, 440;
+$row_86F2FE :23, 24, 25, 26, 27, 28, 37, 41, 42, 44, 45, 46, 47, 48, 84, 63, 65, 66, 67, 68, 84, 86, 87, 88, 105, 107, 108, 128, 149, 252, 273, 275, 294, 314, 315, 335, 336, 357, 380, 401, 402, 422, 423, 424, 430, 431, 432, 441;
+$row_FEB8DD :51, 52, 53, 54, 55, 56, 57, 59, 60, 71, 72, 73, 74, 75, 76, 77, 78, 80, 81, 82, 91, 92, 93, 95, 96, 97, 99, 100, 102, 103, 111, 112, 113, 114, 116, 117, 118, 120, 121, 123, 124, 131, 132, 133, 134, 135, 137, 138, 139, 141, 142, 144, 145, 146, 151, 152, 153, 154, 155, 156, 158, 159, 160, 162, 163, 164, 165, 166, 167, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 192, 193, 194, 195, 196, 199, 200, 201, 202, 203, 206, 207, 208, 209, 213, 214, 215, 216, 217, 218, 219, 220, 224, 225, 226, 227, 228, 229, 234, 235, 236, 238, 239, 240, 241, 245, 246, 247, 248, 249, 250, 255, 256, 257, 259, 260, 261, 262, 263, 265, 266, 267, 268, 269, 270, 271, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 345, 346, 347, 348, 349, 350, 351, 352, 367, 368, 369, 370, 371, 372, 388, 389, 390, 391;
 $row_FE7F9C :197, 198, 204, 205;
-$row_CE4648 :297, 298, 299, 300, 318, 319, 320, 321, 339, 340, 341, 342, 343, 354, 355, 360, 361, 362, 363, 364, 365, 374, 375, 376, 382, 383, 384, 385, 386, 395, 396, 397, 398, 404, 405, 406, 407, 414, 415, 416, 417, 418, 419, 420;
+$row_CE4648 :297, 298, 299, 300, 318, 319, 320, 321, 339, 340, 341, 342, 343, 354, 355, 360, 361, 362, 363, 364, 365, 374, 375, 376, 382, 383, 384, 385, 386, 395, 396, 397, 398, 404, 405, 406, 407, 414, 415, 416, 417, 418, 419;
 $row_E36187 :242, 243, 244, 264;
 $row_890634 :221, 222, 223;
 
@@ -153,7 +152,7 @@ label {
     transform: translateY(-50%) translateX(-50%);
     font-size: 40px;
     font-weight: bold;
-    color: $blue;
+    color: $white;
     text-shadow: 0 0 1px $white;
   }
 
@@ -560,410 +559,55 @@ label {
   .rogic-inner {
     transition: all .2s ease;
     box-shadow:
-      inset 0 0 5px 1px $blue;
+      inset 0 0 5px 1px $white;
       div[class*='rogic-'] {
         transition: all .2s ease;
         z-index: 1;
       }
-      .rogic-23 { background: #86F2FE; }
-      .rogic-24 { background: #86F2FE; }
-      .rogic-25 { background: #86F2FE; }
-      .rogic-26 { background: #86F2FE; }
-      .rogic-27 { background: #86F2FE; }
-      .rogic-28 { background: #86F2FE; }
-      .rogic-29 { background: #555556; }
-      .rogic-30 { background: #555556; }
-      .rogic-31 { background: #555556; }
-      .rogic-32 { background: #555556; }
-      .rogic-33 { background: #555556; }
-      .rogic-34 { background: #555556; }
-      .rogic-35 { background: #555556; }
-      .rogic-36 { background: #555556; }
-      .rogic-37 { background: #86F2FE; }
-      .rogic-38 { background: #555556; }
-      .rogic-39 { background: #555556; }
-      .rogic-40 { background: #555556; }
-      .rogic-41 { background: #86F2FE; }
-      .rogic-42 { background: #86F2FE; }
-      .rogic-44 { background: #86F2FE; }
-      .rogic-45 { background: #86F2FE; }
-      .rogic-46 { background: #86F2FE; }
-      .rogic-47 { background: #86F2FE; }
-      .rogic-48 { background: #86F2FE; }
-      .rogic-49 { background: #555556; }
-      .rogic-50 { background: #555556; }
-      .rogic-51 { background: #FEB8DD; }
-      .rogic-52 { background: #FEB8DD; }
-      .rogic-53 { background: #FEB8DD; }
-      .rogic-54 { background: #FEB8DD; }
-      .rogic-55 { background: #FEB8DD; }
-      .rogic-56 { background: #FEB8DD; }
-      .rogic-57 { background: #FEB8DD; }
-      .rogic-58 { background: #555556; }
-      .rogic-59 { background: #FEB8DD; }
-      .rogic-60 { background: #FEB8DD; }
-      .rogic-61 { background: #555556; }
-      .rogic-62 { background: #555556; }
-      .rogic-63 { background: #86F2FE; }
-      .rogic-65 { background: #86F2FE; }
-      .rogic-66 { background: #86F2FE; }
-      .rogic-67 { background: #86F2FE; }
-      .rogic-68 { background: #86F2FE; }
-      .rogic-69 { background: #555556; }
-      .rogic-70 { background: #555556; }
-      .rogic-71 { background: #FEB8DD; }
-      .rogic-72 { background: #FEB8DD; }
-      .rogic-73 { background: #FEB8DD; }
-      .rogic-74 { background: #FEB8DD; }
-      .rogic-75 { background: #FEB8DD; }
-      .rogic-76 { background: #FEB8DD; }
-      .rogic-77 { background: #FEB8DD; }
-      .rogic-78 { background: #FEB8DD; }
-      .rogic-79 { background: #555556; }
-      .rogic-80 { background: #FEB8DD; }
-      .rogic-81 { background: #FEB8DD; }
-      .rogic-82 { background: #FEB8DD; }
-      .rogic-83 { background: #555556; }
-      .rogic-84 { background: #86F2FE; }
-      .rogic-86 { background: #86F2FE; }
-      .rogic-87 { background: #86F2FE; }
-      .rogic-88 { background: #86F2FE; }
-      .rogic-89 { background: #555556; }
-      .rogic-90 { background: #555556; }
-      .rogic-91 { background: #FEB8DD; }
-      .rogic-92 { background: #FEB8DD; }
-      .rogic-93 { background: #FEB8DD; }
-      .rogic-94 { background: #000000; }
-      .rogic-95 { background: #FEB8DD; }
-      .rogic-96 { background: #FEB8DD; }
-      .rogic-97 { background: #FEB8DD; }
-      .rogic-98 { background: #000000; }
-      .rogic-99 { background: #FEB8DD; }
-      .rogic-100 { background: #FEB8DD; }
-      .rogic-101 { background: #555556; }
-      .rogic-102 { background: #FEB8DD; }
-      .rogic-103 { background: #FEB8DD; }
-      .rogic-104 { background: #555556; }
-      .rogic-105 { background: #86F2FE; }
-      .rogic-107 { background: #86F2FE; }
-      .rogic-108 { background: #86F2FE; }
-      .rogic-109 { background: #555556; }
-      .rogic-110 { background: #555556; }
-      .rogic-111 { background: #FEB8DD; }
-      .rogic-112 { background: #FEB8DD; }
-      .rogic-113 { background: #FEB8DD; }
-      .rogic-114 { background: #FEB8DD; }
-      .rogic-115 { background: #ffffff; }
-      .rogic-116 { background: #FEB8DD; }
-      .rogic-117 { background: #FEB8DD; }
-      .rogic-118 { background: #FEB8DD; }
-      .rogic-119 { background: #ffffff; }
-      .rogic-120 { background: #FEB8DD; }
-      .rogic-121 { background: #FEB8DD; }
-      .rogic-122 { background: #555556; }
-      .rogic-123 { background: #FEB8DD; }
-      .rogic-124 { background: #FEB8DD; }
-      .rogic-125 { background: #555556; }
-      .rogic-126 { background: #555556; }
-      .rogic-128 { background: #86F2FE; }
-      .rogic-129 { background: #555556; }
-      .rogic-130 { background: #555556; }
-      .rogic-131 { background: #FEB8DD; }
-      .rogic-132 { background: #FEB8DD; }
-      .rogic-133 { background: #FEB8DD; }
-      .rogic-134 { background: #FEB8DD; }
-      .rogic-135 { background: #FEB8DD; }
-      .rogic-136 { background: #000000; }
-      .rogic-137 { background: #FEB8DD; }
-      .rogic-138 { background: #FEB8DD; }
-      .rogic-139 { background: #FEB8DD; }
-      .rogic-140 { background: #000000; }
-      .rogic-141 { background: #FEB8DD; }
-      .rogic-142 { background: #FEB8DD; }
-      .rogic-143 { background: #555556; }
-      .rogic-144 { background: #FEB8DD; }
-      .rogic-145 { background: #FEB8DD; }
-      .rogic-146 { background: #FEB8DD; }
-      .rogic-147 { background: #555556; }
-      .rogic-149 { background: #86F2FE; }
-      .rogic-150 { background: #555556; }
-      .rogic-151 { background: #FEB8DD; }
-      .rogic-152 { background: #FEB8DD; }
-      .rogic-153 { background: #FEB8DD; }
-      .rogic-154 { background: #FEB8DD; }
-      .rogic-155 { background: #FEB8DD; }
-      .rogic-156 { background: #FEB8DD; }
-      .rogic-157 { background: #000000; }
-      .rogic-158 { background: #FEB8DD; }
-      .rogic-159 { background: #FEB8DD; }
-      .rogic-160 { background: #FEB8DD; }
-      .rogic-161 { background: #000000; }
-      .rogic-162 { background: #FEB8DD; }
-      .rogic-163 { background: #FEB8DD; }
-      .rogic-164 { background: #FEB8DD; }
-      .rogic-165 { background: #FEB8DD; }
-      .rogic-166 { background: #FEB8DD; }
-      .rogic-167 { background: #FEB8DD; }
-      .rogic-168 { background: #555556; }
-      .rogic-170 { background: #555556; }
-      .rogic-171 { background: #555556; }
-      .rogic-172 { background: #FEB8DD; }
-      .rogic-173 { background: #FEB8DD; }
-      .rogic-174 { background: #FEB8DD; }
-      .rogic-175 { background: #FEB8DD; }
-      .rogic-176 { background: #FEB8DD; }
-      .rogic-177 { background: #FEB8DD; }
-      .rogic-178 { background: #FEB8DD; }
-      .rogic-179 { background: #FEB8DD; }
-      .rogic-180 { background: #FEB8DD; }
-      .rogic-181 { background: #FEB8DD; }
-      .rogic-182 { background: #FEB8DD; }
-      .rogic-183 { background: #FEB8DD; }
-      .rogic-184 { background: #FEB8DD; }
-      .rogic-185 { background: #FEB8DD; }
-      .rogic-186 { background: #FEB8DD; }
-      .rogic-187 { background: #FEB8DD; }
-      .rogic-188 { background: #FEB8DD; }
-      .rogic-189 { background: #555556; }
-      .rogic-191 { background: #555556; }
-      .rogic-192 { background: #FEB8DD; }
-      .rogic-193 { background: #FEB8DD; }
-      .rogic-194 { background: #FEB8DD; }
-      .rogic-195 { background: #FEB8DD; }
-      .rogic-196 { background: #FEB8DD; }
-      .rogic-197 { background: #FE7F9C; }
-      .rogic-198 { background: #FE7F9C; }
-      .rogic-199 { background: #FEB8DD; }
-      .rogic-200 { background: #FEB8DD; }
-      .rogic-201 { background: #FEB8DD; }
-      .rogic-202 { background: #FEB8DD; }
-      .rogic-203 { background: #FEB8DD; }
-      .rogic-204 { background: #FE7F9C; }
-      .rogic-205 { background: #FE7F9C; }
-      .rogic-206 { background: #FEB8DD; }
-      .rogic-207 { background: #FEB8DD; }
-      .rogic-208 { background: #FEB8DD; }
-      .rogic-209 { background: #FEB8DD; }
-      .rogic-210 { background: #555556; }
-      .rogic-212 { background: #555556; }
-      .rogic-213 { background: #FEB8DD; }
-      .rogic-214 { background: #FEB8DD; }
-      .rogic-215 { background: #FEB8DD; }
-      .rogic-216 { background: #FEB8DD; }
-      .rogic-217 { background: #FEB8DD; }
-      .rogic-218 { background: #FEB8DD; }
-      .rogic-219 { background: #FEB8DD; }
-      .rogic-220 { background: #FEB8DD; }
-      .rogic-221 { background: #890634; }
-      .rogic-222 { background: #890634; }
-      .rogic-223 { background: #890634; }
-      .rogic-224 { background: #FEB8DD; }
-      .rogic-225 { background: #FEB8DD; }
-      .rogic-226 { background: #FEB8DD; }
-      .rogic-227 { background: #FEB8DD; }
-      .rogic-228 { background: #FEB8DD; }
-      .rogic-229 { background: #FEB8DD; }
-      .rogic-230 { background: #555556; }
-      .rogic-231 { background: #555556; }
-      .rogic-233 { background: #555556; }
-      .rogic-234 { background: #FEB8DD; }
-      .rogic-235 { background: #FEB8DD; }
-      .rogic-236 { background: #FEB8DD; }
-      .rogic-237 { background: #555556; }
-      .rogic-238 { background: #FEB8DD; }
-      .rogic-239 { background: #FEB8DD; }
-      .rogic-240 { background: #FEB8DD; }
-      .rogic-241 { background: #FEB8DD; }
-      .rogic-242 { background: #E36187; }
-      .rogic-243 { background: #E36187; }
-      .rogic-244 { background: #E36187; }
-      .rogic-245 { background: #FEB8DD; }
-      .rogic-246 { background: #FEB8DD; }
-      .rogic-247 { background: #FEB8DD; }
-      .rogic-248 { background: #FEB8DD; }
-      .rogic-249 { background: #FEB8DD; }
-      .rogic-250 { background: #FEB8DD; }
-      .rogic-251 { background: #555556; }
-      .rogic-252 { background: #86F2FE; }
-      .rogic-254 { background: #555556; }
-      .rogic-255 { background: #FEB8DD; }
-      .rogic-256 { background: #FEB8DD; }
-      .rogic-257 { background: #FEB8DD; }
-      .rogic-258 { background: #555556; }
-      .rogic-259 { background: #FEB8DD; }
-      .rogic-260 { background: #FEB8DD; }
-      .rogic-261 { background: #FEB8DD; }
-      .rogic-262 { background: #FEB8DD; }
-      .rogic-263 { background: #FEB8DD; }
-      .rogic-264 { background: #E36187; }
-      .rogic-265 { background: #FEB8DD; }
-      .rogic-266 { background: #FEB8DD; }
-      .rogic-267 { background: #FEB8DD; }
-      .rogic-268 { background: #FEB8DD; }
-      .rogic-269 { background: #FEB8DD; }
-      .rogic-270 { background: #FEB8DD; }
-      .rogic-271 { background: #FEB8DD; }
-      .rogic-272 { background: #555556; }
-      .rogic-273 { background: #86F2FE; }
-      .rogic-275 { background: #86F2FE; }
-      .rogic-276 { background: #555556; }
-      .rogic-277 { background: #555556; }
-      .rogic-278 { background: #555556; }
-      .rogic-279 { background: #555556; }
-      .rogic-280 { background: #FEB8DD; }
-      .rogic-281 { background: #FEB8DD; }
-      .rogic-282 { background: #FEB8DD; }
-      .rogic-283 { background: #FEB8DD; }
-      .rogic-284 { background: #FEB8DD; }
-      .rogic-285 { background: #FEB8DD; }
-      .rogic-286 { background: #FEB8DD; }
-      .rogic-287 { background: #FEB8DD; }
-      .rogic-288 { background: #FEB8DD; }
-      .rogic-289 { background: #FEB8DD; }
-      .rogic-290 { background: #FEB8DD; }
-      .rogic-291 { background: #FEB8DD; }
-      .rogic-292 { background: #555556; }
-      .rogic-293 { background: #555556; }
-      .rogic-294 { background: #86F2FE; }
-      .rogic-296 { background: #555556; }
-      .rogic-297 { background: #CE4648; }
-      .rogic-298 { background: #CE4648; }
-      .rogic-299 { background: #CE4648; }
-      .rogic-300 { background: #CE4648; }
-      .rogic-301 { background: #555556; }
-      .rogic-302 { background: #FEB8DD; }
-      .rogic-303 { background: #FEB8DD; }
-      .rogic-304 { background: #FEB8DD; }
-      .rogic-305 { background: #FEB8DD; }
-      .rogic-306 { background: #FEB8DD; }
-      .rogic-307 { background: #FEB8DD; }
-      .rogic-308 { background: #FEB8DD; }
-      .rogic-309 { background: #FEB8DD; }
-      .rogic-310 { background: #FEB8DD; }
-      .rogic-311 { background: #FEB8DD; }
-      .rogic-312 { background: #FEB8DD; }
-      .rogic-313 { background: #555556; }
-      .rogic-314 { background: #86F2FE; }
-      .rogic-315 { background: #86F2FE; }
-      .rogic-317 { background: #555556; }
-      .rogic-318 { background: #CE4648; }
-      .rogic-319 { background: #CE4648; }
-      .rogic-320 { background: #CE4648; }
-      .rogic-321 { background: #CE4648; }
-      .rogic-322 { background: #555556; }
-      .rogic-323 { background: #FEB8DD; }
-      .rogic-324 { background: #FEB8DD; }
-      .rogic-325 { background: #FEB8DD; }
-      .rogic-326 { background: #FEB8DD; }
-      .rogic-327 { background: #FEB8DD; }
-      .rogic-328 { background: #FEB8DD; }
-      .rogic-329 { background: #FEB8DD; }
-      .rogic-330 { background: #FEB8DD; }
-      .rogic-331 { background: #FEB8DD; }
-      .rogic-332 { background: #FEB8DD; }
-      .rogic-333 { background: #555556; }
-      .rogic-334 { background: #555556; }
-      .rogic-335 { background: #86F2FE; }
-      .rogic-336 { background: #86F2FE; }
-      .rogic-338 { background: #555556; }
-      .rogic-339 { background: #CE4648; }
-      .rogic-340 { background: #CE4648; }
-      .rogic-341 { background: #CE4648; }
-      .rogic-342 { background: #CE4648; }
-      .rogic-343 { background: #CE4648; }
-      .rogic-344 { background: #555556; }
-      .rogic-345 { background: #FEB8DD; }
-      .rogic-346 { background: #FEB8DD; }
-      .rogic-347 { background: #FEB8DD; }
-      .rogic-348 { background: #FEB8DD; }
-      .rogic-349 { background: #FEB8DD; }
-      .rogic-350 { background: #FEB8DD; }
-      .rogic-351 { background: #FEB8DD; }
-      .rogic-352 { background: #FEB8DD; }
-      .rogic-353 { background: #555556; }
-      .rogic-354 { background: #CE4648; }
-      .rogic-355 { background: #CE4648; }
-      .rogic-356 { background: #555556; }
-      .rogic-357 { background: #86F2FE; }
-      .rogic-359 { background: #555556; }
-      .rogic-360 { background: #CE4648; }
-      .rogic-361 { background: #CE4648; }
-      .rogic-362 { background: #CE4648; }
-      .rogic-363 { background: #CE4648; }
-      .rogic-364 { background: #CE4648; }
-      .rogic-365 { background: #CE4648; }
-      .rogic-366 { background: #555556; }
-      .rogic-367 { background: #FEB8DD; }
-      .rogic-368 { background: #FEB8DD; }
-      .rogic-369 { background: #FEB8DD; }
-      .rogic-370 { background: #FEB8DD; }
-      .rogic-371 { background: #FEB8DD; }
-      .rogic-372 { background: #FEB8DD; }
-      .rogic-373 { background: #555556; }
-      .rogic-374 { background: #CE4648; }
-      .rogic-375 { background: #CE4648; }
-      .rogic-376 { background: #CE4648; }
-      .rogic-377 { background: #555556; }
-      .rogic-378 { background: #555556; }
-      .rogic-380 { background: #86F2FE; }
-      .rogic-381 { background: #555556; }
-      .rogic-382 { background: #CE4648; }
-      .rogic-383 { background: #CE4648; }
-      .rogic-384 { background: #CE4648; }
-      .rogic-385 { background: #CE4648; }
-      .rogic-386 { background: #CE4648; }
-      .rogic-387 { background: #555556; }
-      .rogic-388 { background: #FEB8DD; }
-      .rogic-389 { background: #FEB8DD; }
-      .rogic-390 { background: #FEB8DD; }
-      .rogic-391 { background: #FEB8DD; }
-      .rogic-392 { background: #555556; }
-      .rogic-393 { background: #555556; }
-      .rogic-394 { background: #555556; }
-      .rogic-395 { background: #CE4648; }
-      .rogic-396 { background: #CE4648; }
-      .rogic-397 { background: #CE4648; }
-      .rogic-398 { background: #CE4648; }
-      .rogic-399 { background: #555556; }
-      .rogic-401 { background: #86F2FE; }
-      .rogic-402 { background: #86F2FE; }
-      .rogic-403 { background: #555556; }
-      .rogic-404 { background: #CE4648; }
-      .rogic-405 { background: #CE4648; }
-      .rogic-406 { background: #CE4648; }
-      .rogic-407 { background: #CE4648; }
-      .rogic-408 { background: #555556; }
-      .rogic-409 { background: #555556; }
-      .rogic-410 { background: #555556; }
-      .rogic-411 { background: #555556; }
-      .rogic-412 { background: #555556; }
-      .rogic-413 { background: #555556; }
-      .rogic-414 { background: #CE4648; }
-      .rogic-415 { background: #CE4648; }
-      .rogic-416 { background: #CE4648; }
-      .rogic-417 { background: #CE4648; }
-      .rogic-418 { background: #CE4648; }
-      .rogic-419 { background: #CE4648; }
-      .rogic-420 { background: #555556; }
-      .rogic-422 { background: #86F2FE; }
-      .rogic-423 { background: #86F2FE; }
-      .rogic-424 { background: #86F2FE; }
-      .rogic-425 { background: #555556; }
-      .rogic-426 { background: #555556; }
-      .rogic-427 { background: #555556; }
-      .rogic-428 { background: #555556; }
-      .rogic-429 { background: #555556; }
-      .rogic-430 { background: #86F2FE; }
-      .rogic-431 { background: #86F2FE; }
-      .rogic-432 { background: #86F2FE; }
-      .rogic-433 { background: #555556; }
-      .rogic-434 { background: #555556; }
-      .rogic-435 { background: #555556; }
-      .rogic-436 { background: #555556; }
-      .rogic-437 { background: #555556; }
-      .rogic-438 { background: #555556; }
-      .rogic-439 { background: #555556; }
-      .rogic-440 { background: #555556; }
-      .rogic-441 { background: #86F2FE; }
+      @each $rows in $row_ffffff {
+        div.rogic-#{$rows} {
+          background-color: #ffffff;
+        }
+      }
+      @each $rows in $row_000000 {
+        div.rogic-#{$rows} {
+          background-color: #000000;
+        }
+      }
+      @each $rows in $row_555556 {
+        div.rogic-#{$rows} {
+          background-color: #555556;
+        }
+      }
+      @each $rows in $row_FEB8DD {
+        div.rogic-#{$rows} {
+          background-color: #FEB8DD;
+        }
+      }
+      @each $rows in $row_FE7F9C {
+        div.rogic-#{$rows} {
+          background-color: #FE7F9C;
+        }
+      }
+      @each $rows in $row_86F2FE {
+        div.rogic-#{$rows} {
+          background-color: #86F2FE;
+        }
+      }
+      @each $rows in $row_CE4648 {
+        div.rogic-#{$rows} {
+          background-color: #CE4648;
+        }
+      }
+      @each $rows in $row_E36187 {
+        div.rogic-#{$rows} {
+          background-color: #E36187;
+        }
+      }
+      @each $rows in $row_890634 {
+        div.rogic-#{$rows} {
+          background-color: #890634;
+        }
+      }
   }
 }
