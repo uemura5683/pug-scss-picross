@@ -60,7 +60,8 @@ label {
   cursor: pointer;
   &:hover {
     transition: all .2s ease;
-    box-shadow: inset 1px 1px 1px 1px $lightgray;
+    border: 1px solid black;
+    box-sizing: border-box;
   }
   @for $i from $fs-min through $fs-max {
     $left: 0;
