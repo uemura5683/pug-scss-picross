@@ -26,7 +26,6 @@ $row_pink_three :297, 298, 299, 300, 318, 319, 320, 321, 339, 340, 341, 342, 343
 $row_pink_four :242, 243, 244, 264;
 $row_pink_five :221, 222, 223;
 $bg_color: ($white: $row_white, $black: $row_black, $darkgray: $row_darkgray, $lightblue: $row_lightblue, $pink: $row_pink, $pink_two: $row_pink_two, $pink_three: $row_pink_three, $pink_four: $row_pink_four, $pink_five: $row_pink_five );
-
 input {
   display: none;
   &:checked + label {
@@ -83,7 +82,6 @@ label {
     }
   }
 }
-
 #container {
   position: absolute;
   width: 500px + $numbers;
