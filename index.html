@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html charset=utf-8"/>
+    <meta description="pug/scssでpicrossを作成したページです"/>
+    <link href='//fonts.googleapis.com/css?family=Roboto:700' rel='stylesheet' type='text/css'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>pug/scssでpicrossを作成</title>
+    <style type="text/css">
+      html {
+        font-size: 50%;
+      }
+      body {
+        background-color: #dedede;
+        background-image:
+        linear-gradient(#ecebeb 50%, transparent 50%, transparent);
+        background-size: 10px 10px;
+        margin: 0;
+        font-family: roboto;
+      }
+      a {
+        color: #333;
+      }
+      h1 {
+        border-bottom: 1px solid #868686;
+        padding: 1rem;
+        font-weight: normal;
+        font-size: 3.0rem;
+        margin: 0 0 1rem;
+        word-break: break-all;
+      }
+      #container {
+        min-height: 100vh;
+        display: grid;
+        align-content: center;
+        justify-content: center;
+      }
+      .container-inner {  
+        width: 90vw;
+      }
+      .card-wrap-list {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 -.5rem;
+        font-size: 1.6rem;
+      }
+      .card-wrap {
+        margin: 0 .5rem; 
+      }
+      @media (min-width: 980px) {
+        html {
+          font-size: 62.5%;
+        }
+        .container-inner {  
+          width: auto;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <div class="container-inner">
+        <h1>Picross Pug/SCSS</h1>
+        <div class="card-wrap-list">
+          <div class="card-wrap"><a href="dest/picross.html">問題.1</a></div>
+          <div class="card-wrap"><a href="dest/picross_2.html">問題.2</a></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
